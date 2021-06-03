@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the King of Spaines receiving in Valliodolid, and in the Inglish College of the same towne, in August last part of this yere. 1592. VVryten by an Inglish priest of the same college, to a gentleman and his vvyf in Flaunders, latelie fled out of Ingland, for profession of the Catholique religion</title>
+            <author>Parsons, Robert-c1546-1610.</author>
+         </titleStmt>
+         <extent>Approx. 101KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15190</idno><idno type="EEBO-CITATION">99838179</idno>
+  <idno type="VID">177578</idno>
+  <idno type="EEBO-PROQUEST">2240912871</idno>
+  <idno type="STC">STC 19412.5</idno>
+  <idno type="STC">ESTC S102394</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99838179e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177578)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1078:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the King of Spaines receiving in Valliodolid, and in the Inglish College of the same towne, in August last part of this yere. 1592. VVryten by an Inglish priest of the same college, to a gentleman and his vvyf in Flaunders, latelie fled out of Ingland, for profession of the Catholique religion</title>
+                  <author>Parsons, Robert-c1546-1610.</author>
+               </titleStmt>
+               <extent>61, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>A. Conincx],</publisher>
+                  <pubPlace>[Antwerp :</pubPlace>
+                  <date>Anno. M.D.XCII. [1592]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>By Robert Parsons.</note>
+                  <note>Place of publication and printer's name from STC.</note>
+                  <note>Running title reads: Of the Kinge of Spaines receaving, by the English in Valliodolid.</note>
+                  <note>Formerly STC 19836a.</note>
+                  <note>Identified on UMI microfilm as STC 19836a.</note>
+                  <note>Reproduction of the original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">St. Alban College(Valladolid, Spain) --  Early works to 1800.</term>
+               <term type="topical_term">Catholics, English --  Spain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177578:1"/>
+            <pb facs="tcp:177578:1"/>
+            <p>A RELATION OF THE KING OF SPAINES RECEIVING IN Valliodolid, and in the Inglish Col<g ref="char:EOLhyphen"/>lege of the same towne, in August last past of this yere. 1592.</p>
+            <p>
+               <hi>VVryten by an Inglish Priest of the same College, to a Gentleman and his vvyf in Flaunders, latelie fled out of Ingland, for profession of the Catholique Religion.</hi>
+            </p>
+            <p>Anno, M.D.XCII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:177578:2"/>
+            <pb n="3" facs="tcp:177578:2"/>
+            <head>A RELATION OF THE KING OF SPAINES <hi>receiuing in Valliodolid, &amp; in the English College of the same Tovvne.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>ORSHIPFVLL good Sir, be<g ref="char:EOLhyphen"/>fore I receiued any lettres from your self of your being in flan<g ref="char:EOLhyphen"/>ders, I was aduertised thereof from diuers others in those par<g ref="char:EOLhyphen"/>tes, how both you, &amp; the good gentlewoman your wyf were come ouer vppon the suddaine, &amp; inforced to flye or natiue Countrie, for such a fact as being in it self both iust and pious, &amp; before God meritorious, was wont also in England to be accompted of Christian men, religious &amp; honorable: I meane, to receiue and harbour in your house a Catholique Prieste; which thing though in our daies for par<g ref="char:EOLhyphen"/>ticular respects, and by peculiar nationall lawes, it be made for the tyme both heinous and treasona<g ref="char:EOLhyphen"/>ble; yet remaineth it still in it self &amp; before God, as it was before, &amp; according to that reckening shall you receiue at his handes your reward, and praise also and honour, in the sight and iudgement of all them that truelie loue and serue him.</p>
+            <p>And yf I did thinke that you had neede of Com<g ref="char:EOLhyphen"/>fort in this case, and that Almightie God the fa<g ref="char:EOLhyphen"/>ther
+<pb n="4" facs="tcp:177578:3"/>of all mercies and Consolations, did not ac<g ref="char:EOLhyphen"/>cording to his Custome, deale with you most sweetely, and furnishe you aboundantlie with heauenlie foode, &amp; ioy in this iorney of yours. I could alleage vnto you manie things that comme into my mynde at this tyme, &amp; doe greatlie reioyce my hart and spirits on your behalfes. And among other poyntes, first, &amp; especially, that which S. Paule in lyke occasion said vnto his deerest children the Philippians.
+<note place="margin">Phil. 1.</note>
+               <hi>To you it is geuen for Christ his sake, not onelie to beleeue in him, but also to suffer for him.</hi> I re<g ref="char:EOLhyphen"/>member also the flight out of Rome and Italie which <hi>Aquila, &amp; Priscilla</hi> his wyf were faine to make vnder Claudius the Emperour as S.
+<note place="margin">Acts. 18.</note> Luke recoump<g ref="char:EOLhyphen"/>teth in the Actes of the Apostles, which flight of theirs, proued afterwardes so much to their good, as maie be gathered by the often and honorable me<g ref="char:EOLhyphen"/>morie, which the glorious Apostle S. Paule maketh of them in diuers of his epistles,
+<note place="margin">1. Cor. 16.</note> &amp; in one especial<g ref="char:EOLhyphen"/>lie,
+<note place="margin">2. <hi>Tim.</hi> 4.</note> where he not onelie calleth them <hi>his coadiutors in Christ Iesus.</hi>
+               <note place="margin">Rom. 16.</note> But also affirmeth <hi>that they were to be honored and thanked by the vniuersall bodie of the conuer<g ref="char:EOLhyphen"/>ted Gentiles.</hi> I remember in lyke manner (and that the rather being in this house dedicated to his name) the most renowmed example of glorious S. Alban our first Martyr of England, vnder Dio<g ref="char:EOLhyphen"/>cletian the Emperour, who suffered martyrdom, as S.
+<note place="margin">E<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. l. 1. c. 6. &amp; 7. de <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>est. Angl.</note> Beede &amp; others do write, for receiuing a Catho<g ref="char:EOLhyphen"/>like priest in his house, as you do now banishmēt for the lyke fact, and had don death also yf you had bin taken.</p>
+            <p>These I saie and other thinges do come to my
+<pb n="5" facs="tcp:177578:3"/>memorie concerning your case, though I do assure my self that you haue no neede of these examples and incouragements at mens hands, but rather do receaue them immediatlie of the geuer him self, who incited you to do the fact for his loue, &amp; will not defraude you of your paye, neither in this lyf, nor in the next; With whome besides all other helpes, you haue the potent intercession of that holie priest and martyr discouered in your house,
+<note place="margin">Mr. Gage.</note> as also the prayers of that worthie gentleman and his wyf that for the same crime haue ben adiudged of late to death, and of all others that since the late bloudie Proclamatiō of Nouember or before haue suffred murder, torments, imprisonments, <milestone type="tcpmilestone" unit="unspecified" n="1591"/> or los<g ref="char:EOLhyphen"/>ses for the same cause, who cannot be few, accor<g ref="char:EOLhyphen"/>ding to the late accompt that is comme hither of onelie the Earle of Huntingtons proceedings in yorkshire who is written to haue apprehended for his parte,
+<note place="margin">Crueltie of the earle of Hunting<g ref="char:EOLhyphen"/>ton.</note> well nere fowre score gentlewomen of accompt, besides all other persons of different sexe &amp; qualitie, vexed &amp; afflicted by him for their conscience. And the lyke (or litle lesse) is aduerti<g ref="char:EOLhyphen"/>sed of Lancashire, so as yf the like proportion be held in other shyres also of England, you haue manie parteners in your troubles, &amp; you are parta<g ref="char:EOLhyphen"/>ker with them of manie benedictions, and the more, the better for them that suffer, and for such others as haue participation with them, though most lamentable &amp; grieuous for the publique face of our desolate realme, which hereby runneth to extreme perill of destruction.
+<note place="margin">The cause of this nar<g ref="char:EOLhyphen"/>ration.</note>
+            </p>
+            <p>But of this I will say no more, but will come to
+<pb n="6" facs="tcp:177578:4"/>ausweare the effect of your letter, wherein you desyre to know the estate of this new English se<g ref="char:EOLhyphen"/>minarie, heere in Valliodolid, how, and when it be<g ref="char:EOLhyphen"/>gan, and in what termes it remaineth at this pre<g ref="char:EOLhyphen"/>sent, of which you saie that you haue heard of late, much and different speeche in England, especiallie since the last proclamation, before named, wherein particuler mention is made of this College, yea the whole proclamation thought principallie to haue proceded of the fresh aduises of this new erection in Spaine.</p>
+            <p>To all which I shall ausweare most willingly, and as particularlie as I haue bin able to lerne the estate of this house in the few monethes I haue ben here, and glad I am that you call for this rela<g ref="char:EOLhyphen"/>tion at this tyme, when by the late being here of this most pious King, and of his noble Children the Princes, to visit &amp; honor this house and com<g ref="char:EOLhyphen"/>panie, I haue much more worthie and delectable matter to write of, then otherwise I should haue had.</p>
+            <p>To the first then,
+<note place="margin">The oc<g ref="char:EOLhyphen"/>casion of this College in Spaine.</note> touching the beginning of this Seminarie in Valliodolid, though in your said late Inglish proclamation, among many other fals<g ref="char:EOLhyphen"/>hoodes thease also be auouched most malitiouslie by the scribe thereof <hi>that the king of Spaine for furthe<g ref="char:EOLhyphen"/>ring of other his intensions against Ingland, had dealt with Cardinal Allen and sather Persons</hi> (whome, he calleth two seditious heades of our Inglish natiō) <hi>to gather together with greate labours vppon his charges a multitude of dissolute youth to begin this Seminarie of Valliodolid and others in Spaine.</hi> Yet all men here do know it to be
+<pb n="7" facs="tcp:177578:4"/>contrarie, and can conuince the impudencie of this assertiō, for that neither his Maiestie of Spaine, nor the Cardinal or Father before mentioned, nor any man els began this Seminarie vppon any precedent deliberation, nor thought of any such matter at the beginning thereof, but onelie God himself, in such speciall and particular manner be<g ref="char:EOLhyphen"/>gan the same, and increased it, as he is wont to sett on foote such great and important works of his seruice and glorie, which are contemptible often<g ref="char:EOLhyphen"/>times in mans eyes, &amp; litle esteemed or thought on vntill after by the effectes the author thereof, &amp; his intentions are discouered.</p>
+            <p>You remember I am sure,
+<note place="margin">VVonder<g ref="char:EOLhyphen"/>ful vvaies of Gods vvorkes.</note> how God began the greate worke he had designed by Ioseph in Egypt, by sending him thether captiue in poore, misera<g ref="char:EOLhyphen"/>ble and contemptible sorte to mans eies; you can not forget also how the same Lord of hostes, ha<g ref="char:EOLhyphen"/>uing determined, a far greater enterprise by S. Paule the Apostle,
+<note place="margin">Act. 9. &amp; 27.</note> sent him first blind and afflicted into Damasco, and afterward bound and prisoner vnto Rome. And yf we consider the greatest workes that euer God did for conuerting the whole worlde, from darknes vnto the light and obedience of his truth and Gospel, we shall fynde that he did it not onelie by simple &amp; seelie men, in respect of worldlie pompe, but also by straunge and extraordinarie meanes,
+<note place="margin">Ion. 1. &amp; 2.</note> as when he sent Ionas by a tempest against his will to conuerte and saue the whole state of the Niniuites,
+<note place="margin">4. Reg. 14 Mat. 2.</note> When himself fled to Egypt for feare of Herod, to leaue there the first beginnings of his benedictions, where most of all they weare geuen
+<pb n="8" facs="tcp:177578:5"/>to Idolatrie, when he dispersed his disciples from Hierusalem, vppon the persecution and death of his first martyr S.
+<note place="margin">Act. 8.</note> Stephen, and by that meanes wrought infinite benefites to dyuers countries, kingdoms, and nations, and namely among other the conuersion of that potent Ethiopian Eunuche by meanes of S. Philippe, who retourning to his countrie conuerted his Queene Candaces, and her whole kingdome of Ethiopia.</p>
+            <p>The like might be pondered of the coming of Marie Magdalen, Martha, and Lazarus in a broken shippe, without saile or maste, to Marsilia in Frāce, as all antiquitie doth testifie, whereunto they weare inforced by the persecution of there enemies in Iurie, but the intention of him that gouerneth all, was to conuert that parte of France, by that iorney of theyrs. The lyke iorney against his will made into Britaine soone after the assension of Christ, that noble man Ioseph of Aramathia, which bu<g ref="char:EOLhyphen"/>ried our Sauiour, inforced there vnto by furie of persecution at home, as also by tempest of seas abroade, when he least intended that matter, as all or Inglish recordes doe testefie, whose coming yet was ordained by God for the first sparke of light, that was to be imparted vnto our Realme.</p>
+            <p>The verie lyke and no otherwise was the begin<g ref="char:EOLhyphen"/>ning of this worke here in Spaine, which the Queenes proclamation feigneth or feareth to haue bin instituted vppon greate treatie, counsail &amp; de<g ref="char:EOLhyphen"/>liberation, which indeede was neuer thought of by anie heere, vntil God himself had put it in executiō, for thus in real veritie passed the whole matter.</p>
+            <pb n="9" facs="tcp:177578:5"/>
+            <p>In the moneth of Iulie about three yeares past,
+<note place="margin">Inglishe Catholi<g ref="char:EOLhyphen"/>ques impri<g ref="char:EOLhyphen"/>soned, in Ʋalleodolid and Bur<g ref="char:EOLhyphen"/>gos.</note> to wit the yeare 1589. when the Inglish armie to theyr cost, came to assault the frontiers of Galitia, and Portugal, fower or fiue Inglish preestes and schollers meeting by chaūce in this towne of Val<g ref="char:EOLhyphen"/>liodolid, from diuers places, where for their con<g ref="char:EOLhyphen"/>sciences they had liued in banishment, some of them with intentiō to go in their missions towards Ingland, and some to studie, for that they weare not yet sufficientlie learned to take that enterprise in hand, were by reason of the suspitious tymes, and iust hatred conceaued by this people against the Inglish name (as wel for their heresies, as other out rages latelie committed, and as then in doing) ap<g ref="char:EOLhyphen"/>prehended, and layed in Irons, as weare also three other schollars of the same nation at the verie same tyme apprehended and imprisoned in the Citie of Burgos, as they came out of France, by reason of the warrs newlie there begunne, which was a peculiar prouidence of Allmightie God, to make theis men and their cause knowne in this Contrie, no lesse then when he had appeared to S. Paul and Silas in in Troas and willed them to go and preach in Ma<g ref="char:EOLhyphen"/>cedonia, he prouided for their welcome thither, &amp; for the better publishing of their being there, &amp; of the worke they had in hand, that in the first towne of Macedonia whereunto they came, named Philippi, they should be apprehended,
+<note place="margin">Act. 6.</note> imprisoned and publiquelie whipped. Euen so in the cause of theis men it fell out, which by theyr imprison<g ref="char:EOLhyphen"/>ment became much more knowne and fauoured by the principall of this natiō, then euer otherwise
+<pb n="10" facs="tcp:177578:6"/>it wold haue bene, and aboue all, notice was geuen thereof vnto the king him self by father Persons be<g ref="char:EOLhyphen"/>fore mentioned, who at that tyme by good chance, or rather by Gods particular prouidēce, was in the courte, being latelie before sent by his superiours this waie to-wardes Flaunders in busines of his or<g ref="char:EOLhyphen"/>der: And hauing geuen information of the whole case &amp; circumstances thereof vnto his Maiestie, he according to his exceeding greate pietie, and pecu<g ref="char:EOLhyphen"/>liar loue to all Catholiques of the Inglish nation, taking greate compassiō that men of such qualitie, &amp; vocation should suffer in his most Catholique contrie, ordeined presentlie by his royal letters, that the saide preestes, and scholers should not onely be set at libertie, &amp; protected, but also most ten<g ref="char:EOLhyphen"/>derlie cherished &amp; fauored, as their vocation and holie purpose, in offring themselues to so manie trauailes and dangers for Gods cause did deserue.</p>
+            <p>And to the end, that this might be effectuated with more efficacie and consolation of the persons thēselues, he appointed that the said father, should presentlie go downe to Valliodolid, &amp; gather to ge<g ref="char:EOLhyphen"/>ther such English as weare theare, &amp; prouide for them vntill the weather, &amp; tyme, &amp; other opportu<g ref="char:EOLhyphen"/>nities did serue for them to follow their intended iorny, into Ingland, which being don, &amp; the father arriued at Valliodolid, I haue heard him saie, that he found manie euident &amp; palpable arguments of Gods speciall care &amp; prouidence in this affaire: for as on the one syde there arose dailie many difficul<g ref="char:EOLhyphen"/>tes about the same, so weare they remoued, and re<g ref="char:EOLhyphen"/>medied againe by Gods assistance verie extraordi<g ref="char:EOLhyphen"/>narilie.
+<pb n="11" facs="tcp:177578:6"/>And when the Seminarie was once begun (which was neuer thought of but vppō this occa<g ref="char:EOLhyphen"/>sion) albeit as in all such workes of Gods speciall seruice it is wont to fall out, there wanted not som contradictions, yet as I haue said, by the particular helpe of allmightie God, &amp; greate pietie of his Ma<g ref="char:EOLhyphen"/>iestie, &amp; of such as are nere about his person, who are people of great vertue &amp; singularlie inclined to fauour &amp; further all charitable workes, but espe<g ref="char:EOLhyphen"/>ciallie this, &amp; by the reale &amp; peculiar Christian dis<g ref="char:EOLhyphen"/>position of this nation in generall, who at marueil<g ref="char:EOLhyphen"/>lous forward in aduauncing any thing that apper<g ref="char:EOLhyphen"/>teineth to the furtherance &amp; increase of the Catho<g ref="char:EOLhyphen"/>lique religion, when once they ar well informed of the matter. By theis meanes and motiues I saie, this worke hath growen so fast here in Spaine, as with in theis three yeres it hath increased from six or seauen persons that began the same, vnto aboue se<g ref="char:EOLhyphen"/>uentie, which now are in this house, besydes some twelue or thirteene that the yere past weare sent in missions into Ingland, &amp; eight or nyne that dyed heere, of the commō diseases, which the somer past verie extraordinarilie brought with it, &amp; verie like<g ref="char:EOLhyphen"/>lie they are to grow dailie heere, as far as I see, for that euery weeke almost, I see them come hither, neither can we make them vp chambers so fast (wherein praesentlie I haue some charge &amp; exercise in this place to ouer looke the builders) but that they come faster out of Ingland then their roomes cā be made readie, thoughe greare diligēce be vsed also in this by the superiours of this house, and quicklie wee shall haue God willing habitation
+<pb n="12" facs="tcp:177578:7"/>for more then a hundred persons, and after that as God shall further dispose. For being called from thence with that speciall vocation of allmightie God, as it appeareth, there is no doubt but he will prouide them maintenaance, seing that he which geueth, the greater, will geue also the lesse, and the superiours here being animated with this highe prouidence of God wil not refuse to recea<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e them that are so sent, and so fit in all respectes, and of so good abilitie and towardlines in learning, as com<g ref="char:EOLhyphen"/>monlie they are that God sendeth for this worke.</p>
+            <p>And trulie Sir,
+<note place="margin">The num<g ref="char:EOLhyphen"/>ber of schol<g ref="char:EOLunhyphen"/>lers that come ouer.</note> there be so many thinges to be considered in the coming ouer of theis youthes in to this place, in such number, of such qualitie and condition, and with such wonderfull resolutions among so manie and manifold labours, and dan<g ref="char:EOLhyphen"/>gers that are annexed thereūto, as to me they seeme to make it euident, that this worke is most careful<g ref="char:EOLhyphen"/>lie directed by God him self. For as touching the number, I haue tould you before that they are verie manie in so small a tyme, and amidst so manie dif<g ref="char:EOLhyphen"/>ficulties, of escaping and coming out of the realme. And to here them tel vs heere at their arriuall, the straunge euents that haue happened vnto them in theire iornies, the daungers which they haue pas<g ref="char:EOLhyphen"/>sed in diuers countries, and the meanes that God hath euer sent them in their needes, beyond all hope and humane probabilities to get a waie, is wonderfull. And when at some tymes I haue asked them, how they knew of this seminarie here in Spaine, and whereby principallie they weare moued to come hither, rather then to other places,
+<pb n="13" facs="tcp:177578:7"/>diuers of them haue answeared me, that the late proclamation set out by the Queene in Nouember last, against this Seminarie, <milestone type="tcpmilestone" unit="unspecified" n="1591"/> did first of all geue them notice thereof, as also appetite to see the place, so as that which my Lord Treasorers wilynes in In<g ref="char:EOLhyphen"/>gland did inuent, to terrifie and diuerte men from coming hither, that doth Gods goodnes, &amp; power<g ref="char:EOLhyphen"/>full hand in heauen (far ouerreaching my Lords simple pollicies) turne to an incitation for men to repaire this waie.</p>
+            <p>And touching there qualitie and condition that do come ouer,
+<note place="margin">Ther qua<g ref="char:EOLhyphen"/>litie and condition.</note> the most of them in truthe are of such houses and families at home, as they might haue liued with great commoditie of temporal estate in Ingland, &amp; diuers also come, that be their fathers heires, or onelie children, and those of the principall gentrie within our land, others brought vp and in the waie of good praeferment in the two vniuersities of Oxford and Cambrige, leaue all, and come hither for zeale of religion, being otherwise of verie good abilitie &amp; towardlines in learning; So as my Lord Treasorer had no reason at all, and les shamfastenes in affirming so baselie, and falslie of them as he dyd in the foresaid late proclamation. But aboue all, their resolution is to be admired, that being but youthes, and diuers of them of verie ten<g ref="char:EOLhyphen"/>der yeares, yet come they ouer with that determi<g ref="char:EOLhyphen"/>nacion, to stand and dy in the Catholique cause, &amp; this in such sorte as they seeme to haue nothing in their myndes from the first hower of their voca<g ref="char:EOLhyphen"/>tion and resolution, vnto the tyme they retourne home againe for execution of the same, but the
+<pb n="14" facs="tcp:177578:8"/>Imprisonments, tortures, and martyrdomes of In<g ref="char:EOLhyphen"/>gland, against vvhich they prouide and arme them selues, all the tyme they remaine here, and that with such feruour, as by the cōtinuall thinking thereof, they so incense theyr desyres tovvards the same, as they begin quicklie to thinke the tyme long, which for their studies they haue to staic here be<g ref="char:EOLhyphen"/>fore they maie retourne to the same cōflict againe: And the more aduises and letters that do come from Ingland, of rigor and crueltie vsed there against their fellovves, the more, it seemeth, that theis men are animated thereby, &amp; more desyrous to see themselues quicklie in the battell: vvhich spirit of theirs being so contrarie to the inclinacion of flesh and bloud, cannot come (in myne opi<g ref="char:EOLhyphen"/>nion) but of God onelie: And therefore, I assure you, it so moueth me oftentymes, as yf I vveare but a sevv yeares younger, that I could beare the labours of that mission, I thinke verilie I should aduenture to go backe once againe, vvith them into Ingland. For trulie it moueth me greatelie, to see these young youthes, vvhereof many vveare skarse borne vvhen I came out of Ingland first, to haue this courage, fortitude, and reale as to put their hands and blouds to so heroicall a vvorke, vvhen we that are old men do begin to repose: Though I knovv also, that in all good armies some must remaine in the campe for garde of the bag<g ref="char:EOLhyphen"/>gage lef behinde, vvhiles other go to the field, and the one is no lesse necessarie for conseruation of the vvhole, then the other, and therefore I vvill cōtent my self vvith my degree and station vvhich
+<pb n="15" facs="tcp:177578:8"/>God hath giuen me for the present, and will helpe them in theirs wherein I maie.</p>
+            <p>And thus hauing declared vnto you briefelie the occasion and begining of this College,
+<note place="margin">The Kin<g ref="char:EOLhyphen"/>ges coming to Vallio<g ref="char:EOLhyphen"/>dolid.</note> with the present state wherein at this tyme it standeth, (though some other particularities I maie chaūce to touch afterwardes by occasion offered in this narration) I will now comme to recite vnto you the greate and extraordinarie fauour which this King with the Princes his childrē, shewed vnto our na<g ref="char:EOLhyphen"/>tion and to this companie in particular, by theyr personal coming hither this last weeke past, which fell out in manner and forme following.</p>
+            <p>The Maiestie of this King for diuers weightie &amp; graue considerations, resolued in the moneth of Maie last past, to make a progresse this somer vnto his kingdome of Aragon, partlie (as is supposed) the better to appease &amp; remoue some litle difficulties raised there by the euill humors and practises of some few vnquiet persons (which now God be<g ref="char:EOLhyphen"/>thanked are wholie remedied) &amp; partelie or rather principallie to receiue the othes of fidelitie of that kingdome vnto the Prince Philippe of Spaine, now his highenes is of age for the purpose, according to the lawes and customes of that realme, to wit four<g ref="char:EOLhyphen"/>teene yeres full complet and ended, And this deter<g ref="char:EOLhyphen"/>mination of his Maiestie being once denounced &amp; published throughout Spaine, euerie kingdome, prouince, shyre, and towne, by which his Maiestie was to passe, made particular praeparation to recea<g ref="char:EOLhyphen"/>ue him, with all possible demonstration of ioy, ac<g ref="char:EOLhyphen"/>cording to the exceeding greate loue and most
+<pb n="16" facs="tcp:177578:9"/>hartie deuotion, which his subiects do worthelie beare vnto him, and vnto his most noble children: who are Princes certeinelie of most amiable aspect, courteous deportment, and rare expectation.</p>
+            <p>This court then departed from S.
+<note place="margin">Begining of the Pro<g ref="char:EOLhyphen"/>gresse.</note> Lawrence of the Escuriall about the end of Maie last past, and making their iornie by <hi>Segouia, Areuole, Medina del Campo,</hi> and other greate townes, weare receiued euerie where with great preparatiōs, and exceeding greate ioye and applause of the people, who weare neuer satisfied to behold their good old King and yong Princes whome so lōg &amp; earnestlie before they had defyred to see. But among all the places of this kingdome of Castilla la <hi>Vieia,</hi> this towne of <hi>Valliodo<g ref="char:EOLhyphen"/>lid,</hi> as the principall both for the royall chauncerie, Tribunal of Inquisition, honor of Vniuersitie, resi<g ref="char:EOLhyphen"/>dence of nobilitie, &amp; other preheminences vvhich it holdeth (thoughe yet it be no Citie) did shevv it self most eminent and noble, both in receauing his Maiestie and interteining him and the Princes, for the space of the is tvvo moneths vvhich they haue remayned here.</p>
+            <p>And for the entraunce and receauing,
+<note place="margin">The Kings entrance in Valliodolid.</note> I do assure you, that albeit I haue seene diuers courtes and magnificent shevves in my lyf, yet neuer did I see thing that more contented me, either for the sub<g ref="char:EOLhyphen"/>stance or order of the matter. For besides al the rankes of nobilitie, of Dukes, Marqueses, Earles, Lords, and diuers orders of Kinghts vvith theyr va<g ref="char:EOLhyphen"/>rietie of Grosses, habits and militarie signes: There vvent out also to meete his Maiestie and their highenesses all the clergie, as namelic the Lord
+<pb n="17" facs="tcp:177578:9"/>Abbat which is chief Prelat of this towne, vvith all the Chanons and other Preests. There vvere also heere present that tyme about other buisines, the Archebyshop of S. Iames, &amp; Byshop of Salaman<g ref="char:EOLhyphen"/>ca, that vvent vvith their traines. There vvent forth in lyke sorte, the Lord praesidēt of this Chauncerie royall, vvith all his Iudges, Lavvriers, and other of<g ref="char:EOLhyphen"/>ficers, vvhich at in greate numbers. There vvent forth the Inquisition, vvith their standard of the faith borne before them: There vvent forth the Vniuersitie, vvith all sortes of Doctors and Licen<g ref="char:EOLhyphen"/>tiats vvith their ensignes: There vvent forth the gouernour of the tovvne, vvith al his Councellors, and brethren: And finallie all partes and members of Iustice and gouernment (vvhich heere are verie sollenme and honorable) besides infinit other par<g ref="char:EOLhyphen"/>ticular persons vvent forthe of the tovvne to re<g ref="char:EOLhyphen"/>ceaue his Maiestie, vvho entered about fiue or six of the clocke at after noone, vppon the 25. daie of Iune, his Maiestie vvith the Infanta in a Coache all open and discouered, &amp; the Prince on horsebacke, vvhich vvas a particular fauour to the people ex<g ref="char:EOLhyphen"/>treme desyrous to see him, for that otherwise com<g ref="char:EOLhyphen"/>monlie his highenes is accustomed to go vvith his father in Coache, albeit truly he becometh so wel a horse, euen in theis young years of his, as it reioy<g ref="char:EOLhyphen"/>ced my very harre to see him one the same, consy<g ref="char:EOLhyphen"/>dering vvhat he is, and vvhat he shall be, &amp; vvhat hope and expectation all Christendome hath of him, vvhich I perswade my self most assuredlie that he will rather exceede, then not fulfill, accor<g ref="char:EOLhyphen"/>ding to the signes and tokens that novv he geueth
+<pb n="18" facs="tcp:177578:10"/>of the same, beeing all redy bothe in person and be<g ref="char:EOLhyphen"/>hauiour much more mālyke thē I could haue sup<g ref="char:EOLhyphen"/>posed.
+<note place="margin">The Prin<g ref="char:EOLhyphen"/>ce of Spai<g ref="char:EOLhyphen"/>ne.</note> For to speake nothing of his pietie, which is the principall, &amp; especiallie respected by the king his father in his education (wherein I could re<g ref="char:EOLhyphen"/>compt you strange thinges, by the reporte of his owne Master and others of his highenes chamber, as heere among vs they are told and beleued) his towardlines also in other thinges is rare, I meane as well for his wonderfull comlines of bodie and actiuitie ioyned with the same, as also gyfts of mynde, which both amaze, &amp; infinitelie comforte all such as consider them: and do hope that he is prepared for a pillar to all Christianitie after his father, that now susteineth the same: And thus much of their receiuing into Valliodolid.
+<note place="margin">Entertat<g ref="char:EOLhyphen"/>nements of the King in Ʋallio<g ref="char:EOLhyphen"/>lid.</note> After their enterance they vveare enterteined diuers daies by the nobilitie and towne, with great diuersi<g ref="char:EOLhyphen"/>tie of shewes, maskes, running of Bulles, exercises of armes, &amp; other sportes both by land and water, hauing made vppon the riuer diuers gallies and barges for this purpose, albeit his Maiestie gaue order to moderate the multitude of such prepara<g ref="char:EOLhyphen"/>tions, vvhich restreyned much the desyre &amp; feruor of this people, and cut of manie of theyr designe<g ref="char:EOLhyphen"/>ments vvhich they had made to recreate their king and Princes, vvith theis kynde of exercises. But the Kinge though he vvent somtymes for recreation sake to theis sights, yet his first and principall care vvas, according to his religious custome, to visite churches and monasteries, and other pious places, vvhereof he had all the draughts and designements
+<pb n="19" facs="tcp:177578:10"/>soone brought vnto him by such Architects as for this purpose do follow the courte, and serue his Maiestie. And it was a wonderfull edification to see and consider, the religious and christian humilitie of so greate a monarch in this behalf: which sure<g ref="char:EOLhyphen"/>lie I am not able to recoumpt vnto you so much as it was, but certeine I am that it made my harte to bleede, to thinke vppon the differēt education, and deportment of our Inglish Princes in theis later daies, touching theis religious actions, wherein our old auncient famous kinges and Queenes by re<g ref="char:EOLhyphen"/>cord of all antiquitie, did yeld to no realme Chri<g ref="char:EOLhyphen"/>stian in this kinde of pietie.</p>
+            <p>But to tell you one example among diuers that I saw with myne owne eies,
+<note place="margin">Execeding great pie<g ref="char:EOLhyphen"/>tie and de<g ref="char:EOLhyphen"/>uotion of the King and Prin<g ref="char:EOLhyphen"/>ces.</note> vppon the first daie of August last past, which was sondaie, his Maiestie went to here masse at the new churche of the Ie<g ref="char:EOLhyphen"/>suits in this towne, which is very fayre and of verie excellent good architecture: and being receiued at the churche dore by all the religious of that house with greate deuotion and solemnitie, the preest that in name of all the rest, did the deuine office that daie, came to the dore apparailed in his robes, and accompained with his deacon, &amp; subdeacon, &amp; with the signe of our redemption in his hands, to wit the holie crosse, with a litle piece of the woode of the true crosse whereon Christ him self died, placed in golde and christal with in the same, which this religious kinge tooke and kyssed with all reuerence &amp; deuocion, and put it vppon his face and eies, &amp; the prince following the example of so christian a father, did the verie same vppon
+<pb n="20" facs="tcp:177578:11"/>his knee, and the infanta no more nor lesse, which was a sight of singular edification to all the standers by, and especiallie to some of vs, that had known and seene the prowde and contemptible manner of of proceedings of some haeretical princes, in this behalf: and no doubt, but that euerie one such act of true christian humilitie in so mightie Princes, and that in the sight of so many lookers on, doth merite exceeding greate grace at almightie Gods hands, who onelie is honoured &amp; exalted thereby, and mans vnworthines and basenes acknowledged euen in the highest. And truly to see theis three greate princes, to honour with such hartie affectiō, the crosse &amp; me morie of the death of their Sauiour, made me to imagen that I saw present our noble Britis he Emperour <hi>Constantine</hi> the greate, with his renowmed two Catholique children, <hi>Constans,</hi> and <hi>Constantia,</hi> naie the Infanta semed to resemble not onelie the pietie of <hi>Constantia,</hi> but euen the verie zeale, wisdome, fortitude, &amp; other vertues of our countrie woman <hi>S. Helena</hi> her self, and so by the vniuersall consent of all men heere shee doth, and is so generallie loued and honored for the same, as it cannot be expressed.</p>
+            <p>One daie also his Maiestie and the Princes went to see the Vniuersitie, where they weare receiued with exceeding great honor, and rare varietie of learned exercises in all kinde of sciēces, which his Maiestie &amp; their highenesses heard read, in euerie schole: with manie pithie orations, &amp; other delec<g ref="char:EOLhyphen"/>table inuentions.</p>
+         </div>
+         <div type="part">
+            <pb n="21" facs="tcp:177578:11"/>
+            <head>OF THE KINGES coming to the Inglish College.</head>
+            <p>AFTER his Maiestie and their highnesses had rested some few daies, it seemed conue<g ref="char:EOLhyphen"/>nient to father Rodrigo de Cauredo Rector of this College, and to father Persons, to present vnto his Maiestie the greate desyre theis students had to be admitted to the sight and speech of his Maiestie,
+<note place="margin">The Kings benignitie.</note> and to kysse his hands in the Palla<g ref="char:EOLhyphen"/>ce, or where his Maiestie shold appointe, and to geue him thanks for the manifold greate benefites which he had bestowed vppon them, and all other Catholiques of theyr nation: which petition being propounded to his Maiestie by diuers of the chamber, and others of the Nobilitie that highlie do fauor this College, in this courte, his most gra<g ref="char:EOLhyphen"/>tious ausweare was, whither it shold not be better to go in person, and see them in theyr owne house: whereunto when it was replied, that their house was thought to be incomodious for such a matter, for that theyr habitacion was not yet greate, nor theyr building finished; his Maiestie answered the second tyme, that notwithstanding all this it shold be good to thinke better of the matter, whereby he shewed his exceeding goodwill to the College, and gaue theis fathers here, hope of his coming hither, which before they neuer durst to haue expected, &amp; much lesse to haue requested.</p>
+            <p>Some daies after this there came to the College
+<pb n="22" facs="tcp:177578:12"/>certeine principall men about his Maiestie who alwaies had ben fauourers of this worke, and by knowledge &amp; cōsent of the King him self, did not onelie visit &amp; comfort the students thereof by their presence, but also were cōtēt to staie &amp; dyne among them, &amp; to heare diuers exercises of learning, both in diuinitie and Philosophie and varietie of langua<g ref="char:EOLhyphen"/>ges, being all of them learned mē themselues, to wit <hi>Garsia de Loyasa</hi> scholemaster of the Prince, &amp; highe Almner of his Maiestie, and <hi>Don Iuan de Ideaquez</hi> of the priuie Councell, and councell of estate, and <hi>Don Martin de Ideaquez</hi> secretarie of the priuie councell, and Doctor Valesius chief phisitian of his Maiestie, who hauing heard the foresaid exercises, were much contented and satisfied with the same, and gaue greate comendatiō, to the parties and frendlie relation thereof afterwards vnto his Maiestie and the vvhole courte, as occasion vvas offred: vvhereby much desyre in them and others vvas increased, to haue his Maiestie come and see the house and com<g ref="char:EOLhyphen"/>panie in person, as aftervvard he dyd.</p>
+            <p>Among other things that theis men vveare In<g ref="char:EOLhyphen"/>quisitiue of that daie to knovv (especiallie <hi>Don Iuan de Ideaquez</hi> vvho for his calling is verie well lear<g ref="char:EOLhyphen"/>ned,
+<note place="margin">Orders of the In<g ref="char:EOLhyphen"/>glish Col<g ref="char:EOLhyphen"/>lege.</note> and from the beginning had ben a speciall fur<g ref="char:EOLhyphen"/>therer of this vvorke, vvith his Maiestie) vvas about the manner of the schollers lyf, &amp; studie, and hovv they spent the tyme for preparing and furnishing themselues to that noble action of Martyrdome, vvhich they pretende, vvhere vppon vvas declared vnto his Lordshippe, not onelie their end, and or<g ref="char:EOLhyphen"/>dinarie meanes for the same, but also vvhat pecu<g ref="char:EOLhyphen"/>liar
+<pb n="23" facs="tcp:177578:12"/>order of studie they vsed, for supplying of diuers poyntes of learning necessarie for this enterprise, thoughe not so much vsed nor yet so preciselie needefull for the people of other contries, vvhere heresies haue not entered, as for theis that go to Ingland, thoughe many particular men also of this natiō are to be found that are verie skilful in in the same, I meane in matters of controuersie, &amp; dilligent reading of the text of scriptures, with skyll of the Hebrue and Greeke languages and other the lyke poyntes, besides the ordinarie courses of diuinitie and Philosophie, which most learnedlie arread in this Vniuersitie. And for better declaring of this matter, there was shewed vnto his Lordship a table that hangeth in the College of the orders of the house, cōteining the distributiō of all the tyme frōhovver, to hower, throughout the whole daie, and weeke, &amp; yeare, vvhich here vvith I maie prochaunce send also to you in a paper aparte yf I can haue tyme to copie it out, to the end you maie vnderstand, that the lyf and exercise of theis men is conformable to the enterprise they haue proposed to themselues, for gaining of soules to their maker, and that my Lord Treasurer vvas much caried awaie with passion, vvhen in his late proclamation he auouched, that theyr vvhole lyf vvas nothing els but studie of treason. This table being reade by <hi>Don Iuan de Ideaquez,</hi> which contei<g ref="char:EOLhyphen"/>ned (as I haue said) the vvhole order of the students lyf, and conuersation, both for prayer, lectures, dis<g ref="char:EOLhyphen"/>putations, corporall refection, recreation, and other exercises from the verie tyme of theyr rysing vntill
+<pb n="24" facs="tcp:177578:13"/>the instant vvherein they go to bed againe, all measured and limited vvith greate wysdome and circumspection: the thing pleased him so vvell, as he would needes haue a copie vvritten out thereof, &amp; sent him, vvhich vvas don the next daie after, and it is supposed that he imparted the same also to the king: But hovvsoener this vvas, certeine I am that the superiors of this house, had shortly after assu<g ref="char:EOLhyphen"/>rance that his Maiestie, and theyr highenesses vvold come and visit the College, for which purpose they began presentlie to make preparation, as vvel as the tyme would serue, vvhich by Gods particular pro<g ref="char:EOLhyphen"/>uidence and assistance, fell out far better in the end, then at the begining vvas Imagined, for of a cer<g ref="char:EOLhyphen"/>taine quarter of a house, which they had begun to builde vp for a refectorie, and other offices belon<g ref="char:EOLhyphen"/>ging thereunto, being a hundred and ten foote in length, and about two or three and tvventie in breadth, thoughe the vvalles vvere but half vvaie vp, yet they made shyft to couer it vvith tymber and canuase, and hanged it verie decentlie vvith grene and redd taffatie, and so adorned it vvith a<g ref="char:EOLhyphen"/>abundance of verses of manie languages, Em<g ref="char:EOLhyphen"/>blemes, Hieroglyphicks, and other learned in<g ref="char:EOLhyphen"/>uentions, as vvas most beutifull and delectable to behold; and in the mids thereof vvas made a place of estate, mounted somvvhat higher then the rest, vvith three chaires, for the king and the tvvo Prin<g ref="char:EOLhyphen"/>ces to sit, and right ouer against them a pulpit for the exercises of learning to he donne therein. On the right hand of the king sat the Prince, and on his syde stoode al the schollers in ranckes, according to
+<pb n="25" facs="tcp:177578:13"/>their degrees in studies. On the lest hand sat the infanta, and neere to her were placed all hir Ladies and vvomen of honour: and nexte to them the no<g ref="char:EOLhyphen"/>bilitie and courtiers that came vvith the king, and all had verie good and commodious standing, by reason of the largenes of the place as hath bin saide.</p>
+            <p>The exercises that vveare appointed for this re<g ref="char:EOLhyphen"/>ceiuing of his Maiestie,
+<note place="margin">Exercices appoynted for the King in the Ing. Colle<g ref="char:EOLhyphen"/>ge.</note> were the foresaid verses and compositions in diuerse languages, &amp; besydes this, certeine orations and pithie speeches in the same tongues, vppon diuerse verses of the 71. Psalme which beginneth <hi>Deus iudicium tuum Regida, &amp; iusti<g ref="char:EOLhyphen"/>tiam tuam filio Regis.</hi> Which Psalme thoughe it were written properlie and peculiarly of Christ himself, yet by secondarie application, &amp; by some similitu<g ref="char:EOLhyphen"/>de, it maie also verie aptelie be accommodated to this most christian King, &amp; his son, that are so prin<g ref="char:EOLhyphen"/>cipall ministers of Christ, and do imitate so mani<g ref="char:EOLhyphen"/>festlie his kinglie vertues, vvhich in this Psalme are expressed. And for that the superiours of this house consydering the good abilitie of theis students, in the varietie of languages, which in this banishe<g ref="char:EOLhyphen"/>ment of theirs they haue learned, being able to speake and write verie perfectlie in nyne or ten different tongues (a rare thing, as it seemeth in a College of one onlie Nation) they thought it best that in euerie language some schollers shold take a verse of the foresaid Psalme, and briefelie there<g ref="char:EOLhyphen"/>vppon saie somwhat, to the present purpose of the King and his childrens being heere, and of the state of our afflicted countrie.</p>
+            <pb n="26" facs="tcp:177578:14"/>
+            <p>This being thus appointed his Maiestie vppon the third of August,
+<note place="margin">The Kings comming.</note> being the day of the inuention of the sacred bodie of S. Stephen the proto martyr of Christs vniuersall Church (a fit daie for the rela<g ref="char:EOLhyphen"/>tion it had to S. Alban first martyr of Ingland to whome this howse is dedicated) caused to be ad<g ref="char:EOLhyphen"/>uertised presentlie after dinner, that he wold be with vs that verie euening, which he fulfilled, and for more shew of loue and confidence, came with out anie gard at all, though he had three royall guards in the towne, to wit, one of Almans, the se<g ref="char:EOLhyphen"/>cond of Burgondians, and the third of Spaniards: onelie the Rector of the College sente to the Cap<g ref="char:EOLhyphen"/>taine of the spanish guarde, to request half a dosen of his soldiors, to be sent him for keeping the Col<g ref="char:EOLhyphen"/>lege gates, to the end that so greate a presse of peo<g ref="char:EOLhyphen"/>ple as repaired thither, vppon the fame of the Kings comming, should not enter and disturbe those that were within, or came with his maiestie.</p>
+            <p>The King and Princes being comme to the Col<g ref="char:EOLhyphen"/>lege, first of all they made theyr prayer in the Chap<g ref="char:EOLhyphen"/>pel of S. Alban, where briefelie by one of the fa<g ref="char:EOLhyphen"/>thers of the societie, the reasons weare geuen to his Maiestie why this College had taken the aduo<g ref="char:EOLhyphen"/>cation of that sainct: first because he was the first martyt of Christ in that Iland, and secondlie for that his cause of Martyrdome was the same for which men at this daie do suffer death in Ingland, to wit for receauing of a preest into his house as before hath bin touched, from this place they went to the greate hall or theater before mentioned, where his Maiestie and their highenesses being set
+<pb n="27" facs="tcp:177578:14"/>they first of all vewed more distinctlie all the schol<g ref="char:EOLhyphen"/>lers in their rankes, which before they had onlie seene together at the first entrance at the gate of the College. And here it was told his Maiestie first of all, which of the students were deuines, which Philosophes, which newlie come, and other lyke circumstances.</p>
+            <p>After this praesented him self before his maiestie a youth of verie gratefull aspect, &amp; cōmelie actiō, which in the name of al the rest made a pithie ora<g ref="char:EOLhyphen"/>tiō of gratulatiō &amp; thanks geuing to his Maiestie &amp; theyr highenesses, for their coming thither, and manie other benefites bestoued vppon our nation, the somme of the oratiō was,
+<note place="margin">The ora<g ref="char:EOLhyphen"/>tion to the King.</note> that as in one respect he toke it for a singular benefit, and priuilege to himself, to haue occasion and leaue, to vtter that daie by word of mouth, the exceeding ioy and iubi<g ref="char:EOLhyphen"/>ley of his hart, which the rest of his fellowes, bre<g ref="char:EOLhyphen"/>thren, and fathers there present weare permitted to to testifie, by their lookes onelie and alacritie of countenance: so on the other syde, it did breede vnto him no small difficultie to be comaunded by his superiors to be brief, and to haue his tyme limi<g ref="char:EOLhyphen"/>ted of speeche in suth an argumēt &amp; subiect, as had no end or limit in it self, which weare the praises and actes praise worthie of his Catholique Maie<g ref="char:EOLhyphen"/>stie, of which albeit he weare letted to speake, both by the foresaid breuitie of tyme &amp; greate modestie his Maiestie, yet hoped he at leaste that he might haue spoken some what in that place of our coun<g ref="char:EOLhyphen"/>trie of Ingland, som thing also of himself and his followes, his Maiesties children, pupils and guestes:
+<pb n="28" facs="tcp:177578:15"/>manie thinges of Spaine, that had bin to them so louing a nurse, and most of all of the manifold be<g ref="char:EOLhyphen"/>nefits receiued of his maiestie; of all which seing that by the causes recited he was inforced to hold his peace, he said his next comfort was to consyder that his Maiesties wysdome, knowlege and expe<g ref="char:EOLhyphen"/>rience of all affaires, &amp; especiallie ours of England, was so great, that by one onelie view of those schol<g ref="char:EOLhyphen"/>lers present without hearing them speake, he wold conceaue more of their estate and desyres, and of all these points before mentioned, then he by anie length of speech could vtter vnto him.</p>
+            <p>To this sense and substance he began his oratiō; and for that I remember now, that you vnderstand also the Latin tongue, I will not spare to set doune heere so much of the beginning of the said oratiō, as alreadie I haue expressed in Inglish, for thus it wēt.</p>
+            <p>
+               <hi>Singulari beneficio contigisse mihi arbitror hodierno die (Potentissime Pijssime{que} Rex) quod cum caeteri mei socij Pa<g ref="char:EOLhyphen"/>tres fratres{que} corona hac circumfusi, conceptam animis laeti<g ref="char:EOLhyphen"/>tiam cordium{que} gaudium, ex hac maiestatis tuae, &amp; serenis<g ref="char:EOLhyphen"/>simorum Principum gratissima praesentia plenissimè cumu<g ref="char:EOLhyphen"/>latum oculis tantum &amp; vultu teslentur, mihi soli inter cae<g ref="char:EOLhyphen"/>teros sors haec gratissima obtigerit, vt gestientis animi exul<g ref="char:EOLhyphen"/>tationem verbis quo{que} eloquar. Quod summam sanè mihi iucunditatem parit; non quod ego me lius quam caeteri prae<g ref="char:EOLhyphen"/>stare hoc possim, sed quod exuberanti cordis affectui commo<g ref="char:EOLhyphen"/>dius hac ratione satisfaciam, quam reliqui, qui erūpentem mentis ardorem vocis silentio premere coguntur.</hi>
+            </p>
+            <p>
+               <hi>Quanquam ex altera quo{que} parte summam profecto elo<g ref="char:EOLhyphen"/>quendi mihi difficultatem facit, cum temporis buius, tum sermonis etiam circumscriptio, qua iubeor esse breuissimus.
+<pb n="29" facs="tcp:177578:15"/>Quid enim quaeso, immensam illam ingentem{que} factorū tuo<g ref="char:EOLhyphen"/>rum nobilissimorum syluam ingredienti (gloriosissime mo<g ref="char:EOLhyphen"/>narcha) quid innumerabilia laudum tuarum encomia a<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>mo percurrenti magis aduersum aut incommodum cogitari potest, quam temporis angustiae &amp; orationis praescripta bre<g ref="char:EOLhyphen"/>uitas? Id{que} multo magis mihi hoc primo aditu ad maiestatis tuae conspectum, quo vt caetera omnia taceam &amp; silentio in<g ref="char:EOLhyphen"/>uoluam, aliquid certè de Anglia nostra dicendum mihi fue<g ref="char:EOLhyphen"/>rat, nonnulla de nobis ipsis, silijs, alumnis, &amp; hospitibus tuis, multa de Hispania dulcissima nutrice nostra, plurima verò de te tuis{que} maximis &amp; insinitis in nos beneficijs, quae omnia cum vel omittere prorsus. vel in huius tantilli tempo<g ref="char:EOLhyphen"/>ris angustias indecorè planè compingere cogar, permolestum sane videbatur. Qanquam vt verum fatear, eo vno interim me solabar plurimum, quod tantam esse sciremmaiestatis tuae prudentiam, &amp; in omni rerum genere (nostrarum maxi<g ref="char:EOLhyphen"/>mè) cognitionem, vsum, ac singularem foelicissimam{que} me<g ref="char:EOLhyphen"/>moriam, vt quicquid ego dicturus sim, aut dicere his de rebu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> possim, id tu ex vnico nostrum intuitu, animo praeconciperes, &amp; benignitatis tuae assensu, siue dicentem me, siue gratulan<g ref="char:EOLhyphen"/>tem, siue gratias agentem, vel etiam supplicantem anteuer<g ref="char:EOLhyphen"/>teres. Nota est enim iādiu maiestati tuae cōditio nostra, nota causa, perspectae difficultates, cognitum propositum, audita desyderia, intellectae spes, non ignota studia: quibus omnibus cum tu pro singulari tua pietate ac regia clementia &amp; mu<g ref="char:EOLhyphen"/>nificentia tantopere faueas &amp; patrocineris, non ista nobis tam commemorare necesse est, quam gratis animis prosequi, quam memoria sempiterna complecti, quam extensis mani<g ref="char:EOLhyphen"/>bus, oculis, cordibus{que} (quod certè facimus) ad caelum vs{que} quotidie transmittere, vbi tantae beneficentiae praemium cer<g ref="char:EOLhyphen"/>tissimum, &amp; remuneratio tibi futura est sempiterna.</hi>
+            </p>
+            <p>This then was the first parte of his speeche to
+<pb n="30" facs="tcp:177578:16"/>the King, and in the continuaunce and prosecution of the same he touched diuers points that seemed greatelie to moue the standers by, as among others he alleadged that example of rich Abdias in the bookes of the kings, who said to Elias the prophet. <hi>Haue you heard perchaunce</hi> (quoth he) <hi>what I did in ty<g ref="char:EOLhyphen"/>mes past,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Reg. 19.</note>
+               <hi>when Iezabel the wicked Queene did persecute and slea the Prophets of God almighty how I did saue a hundred of their liues together, by hyding fystie in one caue, &amp; systie in an other, &amp; feeding them with bread &amp; water?</hi> Which this youth applied to the King of Spaines succouring of Inglish Catholiques in theis daies, vnder the persecution of Queene Elizabeth of In<g ref="char:EOLhyphen"/>gland, and that he had saued the lyues not of one hundred, but of manie hundreds, nor had hidden them in caues as Abdias did, but had receaued them openlie and honorablie, in his townes, cities, and kingdomes, nor had onelie mainteined them with bread and water, but geuen them liberallie and a<g ref="char:EOLhyphen"/>bundantlie to liue on. All which he vttered with such good grace and hartie affection, and with so effectual words and speech in the Latin tongue, as greatlie pleased all men, and made deepe impressiō in the hearers, especiallie to such as knew the spea<g ref="char:EOLhyphen"/>ker (whereof also his Maiestie was partelie aduerti<g ref="char:EOLhyphen"/>sed by a father that stood neere him) to be the son of a worshipfull gentleman of our contrie, that dyed in prison for his religion, and that the youth himself being then but 14. yeares of age had bin twise or thrise imprisoned in Ingland for confes<g ref="char:EOLhyphen"/>sion of the catholique faith, with two of his bre<g ref="char:EOLhyphen"/>thren, before they came into theis parts, which
+<pb n="31" facs="tcp:177578:16"/>circumstances gaue verie greate force and energie to that he spake, and so when he had don his Ma<g ref="char:EOLhyphen"/>iestie said once or twise verie hartelie that he had don verie wel. And when he came to kysse his Ma<g ref="char:EOLhyphen"/>iesties hands on his knee, he would not suffer him, but imbraced him tenderlie about the head and so dismissed him.</p>
+            <p>After him mounted vp into the pulpit (that stoode before the King and Princes) an other youth of XVI. yeares of age, of no lesse grace &amp; habilitie in speeche thē the former, whose name for iust res<g ref="char:EOLhyphen"/>pects of the worshipfull and honorable to whome he is of kynred in Ingland, I do omit, his speeche was thus word for word in the spanish tongue, by waie of preface and preamble to that which was to insue.</p>
+            <p>After we weare aduertised (most victorious King and noble Princes) of the exceeding greate fauour which your maiestie and highenesses had determi<g ref="char:EOLhyphen"/>ned to shew vnto vs, &amp; to our natiō,
+<note place="margin">The en<g ref="char:EOLhyphen"/>trance to the ton<g ref="char:EOLhyphen"/>gues.</note> by coming to visit in your royal persons this their new College of poore banished Inglishemen; we began to thinke with our selues, what we might do on our partes, with the litle tallent which God hath geuen vs, that might not be vngratefull to your maiesties eares, nor vnworthie of your presence: And so hauing receiued your Maiestie and highe<g ref="char:EOLhyphen"/>nesses, with those few vvordes of gratulation and thankes geuing, which in the name of the vvhole companie haue bin vttred, no one thing seemed shold be more apt, or acceptable, then as yf people dispersed in diuers contries and nations for cōfes<g ref="char:EOLhyphen"/>sion
+<pb n="32" facs="tcp:177578:17"/>of him that is Lord of all, we should vtter in diuers languages, as vvel by speeche from this pul<g ref="char:EOLhyphen"/>pit, as in the varietie of verses and compositions which hang on these vvalles, the great and vn<g ref="char:EOLhyphen"/>speakable mercies and fauours which almighty God by meanes of your Maiestie hath shewed vn<g ref="char:EOLhyphen"/>to vs, and will do euerie daie more, as wee haue iust cause to expect. And for our th<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mes or argumēts of theis speeches, we haue thought best to take in order the principall verses of the seuentie and one psalme, as verie commodius for this purpose; and our begining shalbe from the Hebrue tongue, as mother and roote of all the rest.</p>
+            <div n="1" type="section">
+               <head>I. The Hebrue.</head>
+               <p>HE that spake in the Hebrue tongue was a person verie markable, for being so neere of kyn as he is to one of the worthiest men that euer perhaps the soile of Ingland bred of his coate, I meane of that noble and worthie kinght and Martyr S. Thomas More, whereof the King being aduertised at the first appearing of this man in the pulpit, he told presentlie the infanta thereof. He tooke for his theame the first verse of the fore said Psalme which in Latin saith thus. <hi>Deus iudicium tuum Regi da, &amp; iustitiam tuam filio Regis.</hi> &amp; in Inglish, <hi>O Lord geue iudgement vnto the King, and iustice vnto the Kings son.</hi> Wherevppon this man spake in Hebrue, and repeated the same briefelie againe in Latin when he had don, and so did all the rest that follo<g ref="char:EOLhyphen"/>wed and speake in tongues not vnderstood by his Maiestie, &amp; the Princes, the effect of his speeche
+<pb n="33" facs="tcp:177578:17"/>was, that as iudgement and iustice were two prin<g ref="char:EOLhyphen"/>cipall perles, and precious stones which among others did adorne and greatelie beautifie an Impe<g ref="char:EOLhyphen"/>rial crovvne, and for that cause were so speciallie attributed in this verse of the Psalme vnto the roy<g ref="char:EOLhyphen"/>all gouermēt of Christ our Sauior. So by the singu<g ref="char:EOLhyphen"/>lar goodnes &amp; fauor of the same our Sauiour it was brought to passe; that in theis most troublesome daies of ours, wherein so manie other kingdomes weare driuen into disorder, dissolution,
+<note place="margin">Iustice and iudgement, in Spaine.</note> and licen<g ref="char:EOLhyphen"/>tiousnes, by warrs, tumults and heresies, <hi>Iudgment and Iustice</hi> should so much flourish in the crowne of Spaine, as neuer by anie mans memorie was re<g ref="char:EOLhyphen"/>corded the lyke. Which vvas the cause also that so manie of far contries did repaire hither, to shrewde themselues vnder theis two noble shieldes of all peace, tranquilitie, and securitie, and so much the more for that they did not, onelie see <hi>iudgement</hi> and <hi>Iustice</hi> established in Spaine for his Maiesties daies, but the Princes education and inclination also to be such for maintenaūce of the same, as they might be hoped to be perpetuall, so as the prophets desy<g ref="char:EOLhyphen"/>re vvas heere also fulfilled (saith he) that wyshed both <hi>Iudgement and Iustice to the King, and to the Kings sonne.</hi>
+               </p>
+            </div>
+            <div n="2" type="section">
+               <head>II. The Greeke.</head>
+               <p>HE that spake in the Greeke tongue, vvas a man no lesse quallifyed then the rest, but ra<g ref="char:EOLhyphen"/>ther more in all kynds and varietie of learning, and borne of a vvorshipfull house in Ingland, as for the most part they weare all which spake to the
+<pb n="34" facs="tcp:177578:18"/>King this daie, and he spake the Greeke tongue so naturallie, as it made them wonder that vnderstood it, in so much as it pleased his Maiestie to aske the prince whither he vnderstood anie parte thereof, for that his highenes besydes all other royall quali<g ref="char:EOLhyphen"/>ties &amp; virtues, is said also to be so diligentlie instruc<g ref="char:EOLhyphen"/>ted in both theis tongues of Latine and Greeke, as that in the first he both speaketh and vvriteth well. This man then tooke for his theame the second verse of the fore said Psalme, which hauing relatiō to the vvordes going in the verse before, saith thus, <hi>Iudicare populum tuum in iustitia, &amp; pauperes tuos in iu<g ref="char:EOLhyphen"/>dicio.</hi> That is, <hi>To iudge thy people in iustice, and thy poore ones in iudgement.</hi> Which vvordes he applied to the same effect almost vvhich the other had done the former verse, thoughe vvith different conceipts &amp; sentences, for he tould of the tvvo potent hands vvhereby God did hold vp &amp; gouerne the vvhole vveight of the vvorld, as also of the tvvo feete vvhereby he vvas said to vvalke the inscrutable vvaies of his diuine prouidence, and that as this King present aboue all other earthelie and tempo<g ref="char:EOLhyphen"/>rall christian kings, did most represent the povver of Almightie God by the greatnes of his Monar<g ref="char:EOLhyphen"/>chie, so did he in no one thing more imitate the patetne of his goodnes then by protecting Gods people vvith Iustice and iudgement, and relieuing his poore ones, vvhereof the Inglish present and manie others of theyr nation could geue most true and glorious testimony.</p>
+            </div>
+            <div n="3" type="section">
+               <pb n="35" facs="tcp:177578:18"/>
+               <head>III. The Latin.</head>
+               <p>HE that spake in the Latin tongue vvas som<g ref="char:EOLhyphen"/>vvhat longer then the rest, for that both his Maiestie and the Prince and diuers other of the courte and noble men there present vnderstoode him, and so taking for his theame the third verse which follovveth in order, in the forsaid Psalme, he expounded theis vvords. <hi>Suscipiant montes pacem po<g ref="char:EOLhyphen"/>pulo &amp; colles iustitiam.</hi> That is, <hi>Let montaines bring peace to the people and litle hilles Iustice.</hi> Which he applyed according to the exposition of S. Augustine to the preachers of Gods vvord, who ar called moūtaines and hils, vvhereon the citie of God, that is his Churche is set to be seen, and from vvhome iustice and peace ar principallie to be learned, he said that among other infinit benefits which the Inglish na<g ref="char:EOLhyphen"/>tion had receaued of almightie God, this vvas to be accoumpted for one of the most rare, that in a tyme of so greate flouds and tempests that ouervvhel<g ref="char:EOLhyphen"/>med and drovvned all face of pietie and religion in theyr cōtrie, God had prouided yet some <hi>mountaines</hi> and <hi>hils</hi> that vveare more eminent then anie of the floudes, and that durst vvade and vvalke amids the most raging vvaues thereof, shevving Iustice and peace vnto the people vvhome God had chosen to be vvorthie of the same, and that theis hils and mountaines vveare the Preests and preachers of Catholique religion, sent in by the Colleges and se<g ref="char:EOLhyphen"/>minaries vvhom God had reserued in his mercifull prouidence for this fatall floud, to preache in In<g ref="char:EOLhyphen"/>gland peace of conscyence to all such as against the
+<pb n="36" facs="tcp:177578:19"/>same haue follovved heresie for tēporall respects: and iustice of lyf to such as vppon praesumption of onelie faith, haue lest the obseruation of Gods ho<g ref="char:EOLhyphen"/>lie comandements: In which action and heauenlie enterprise seing his Maiestie had so greate parte by his liberalitie tovvards the seminaries, wherein theis mounteines and hils did grovve, as all the world knoweth: he said that he did not doubt but that besides the reward eternall which at Gods hands he was to expect, he shold receaue also com<g ref="char:EOLhyphen"/>fort in this world, one daie, by the <hi>peace</hi> and <hi>Iustice</hi> both temporall and spirituall, that he should see restored in Ingland againe, when it should please his diuine Maiestie to take mercie of the same, about which poynt he spake diuerse thinges of muche tendernes and compassion.</p>
+            </div>
+            <div n="4" type="section">
+               <head>IIII. The Inglish.</head>
+               <p>AFTER theis three learned tongues, there ensewed other three vulgar languages, to vvitt, the Inglish, the vvelsh or Brittish, and the Scotish, vvherein those that spake as they pre<g ref="char:EOLhyphen"/>sumed that fevv of the courte vvould vnderstand them (though of no nation comonlie there vvant in the same) so vveare they the briefer, notvvith<g ref="char:EOLhyphen"/>standing that by the forme of theyr action and manner of speeche they seemed to moue diuerse that vnderstoode them not, nor vveare they to his Maiestie and Princes (as appeared) either vverisome or tedious. And he that spake in Inglish vvas a youth of greate pietie and zeale in religion though modest and comely in his behauiour, &amp; yf I should
+<pb n="37" facs="tcp:177578:19"/>tel you his name, you vvould meruaile that anie of that name and lignage should be of that qualitie, for he is a flovver of a verie principall though hae<g ref="char:EOLhyphen"/>reticall familie in our countrie, and dyuerse of his frendes and kinred at not onelie of credit in the courte, but in speciall charge also abroade in the countrie, so that here you see that vvonder some<g ref="char:EOLhyphen"/>vvhat fulfilled that our Sauiour speaketh of in the ghospell (yf yet the comparison be lyke) that figges at gathered somerymes of thornes which vve see happen very often tymes in this sense heere vvith vs, to vvit, that of deceaued parentes in Ingland, do come hither children very zealous in Gods seruice and the Catholique religion, so as God geueth his grace to vvhome he pleaseth onelye.</p>
+               <p>This man tooke for his theame the fourth verse in order of the Psalme, vvhich is: <hi>Iudicabit pauperes populi, &amp; saluos faciet filios pauperum, &amp; humiliabit ca<g ref="char:EOLhyphen"/>lumniatorem. He shall geue iudgement to the poore of the people, and shall saue and deliuer the poor mens children, and shall humiliate, or bring downe the scalaunderer or ca<g ref="char:EOLhyphen"/>lumniator.</hi> And for that the other that had spoken before, seemed to haue treated sufficientlie of the former tvvo clauses of this verse, he touched prin<g ref="char:EOLhyphen"/>cipallie the third, consydering the humiliating and bringing dovvne of this sclaunderer or false ca<g ref="char:EOLhyphen"/>lumniator: vvhich he expounded of all others in the world to be principallie and most truelie vnder<g ref="char:EOLhyphen"/>stoode of the heretique, vvho calumniateth and sclaundereth both God and all Godlie persons and actions, for first of all he calumniateth Gods vvord, by false in terpretations, &amp; expositions of his owne
+<pb n="38" facs="tcp:177578:20"/>head, making that to appeare scripture vvhich is none at all, but his ovvne inuention: secōdlie he ca<g ref="char:EOLhyphen"/>lumniateth Gods ordinaunces and gouerment, in that he rebelleth against the subordination and Hierarchie that he in his churche hath appointed. Thirdlie he calumniateth his moother the Catho<g ref="char:EOLhyphen"/>lique Churche, in imputing infinite false errors &amp; lyes vnto hir, which either his malice hath inuen<g ref="char:EOLhyphen"/>ted, or his ignorance not vnderstoode, or his vvil<g ref="char:EOLhyphen"/>fulnes misconstiued: Fourthelie he calumniateth the holie fathers and Doctours of the same Chur<g ref="char:EOLhyphen"/>che, vvith lyke false imputations and calumnia<g ref="char:EOLhyphen"/>tions of his owne pride, as also he scalaundereth and condemneth lastelie all his owne progenitors what soeuer, for iustifying onclie his ovvne fansie and vanitie.</p>
+               <p>This then said he, is that hatefull sclaunderer &amp; wicked calumniator, which the Iustice and iudge<g ref="char:EOLhyphen"/>ment of God (so much repeated in this Psalme) will humble and bring downe in tyme, and that princi<g ref="char:EOLhyphen"/>pallie as we trust by the handes of your Maie<g ref="char:EOLhyphen"/>stie, &amp;c.</p>
+            </div>
+            <div n="5" type="section">
+               <head>V. The VVelshe, or British.</head>
+               <p>VVELL you do remember (as I suppose) that the welshe or british language that vvas vsed in Ingland before the entraunce of the Saxons, is accompted so auncient among vs as manie in Ingland do thynke it canne neither be vvritten nor printed, vvhich not onelie reason but experiēce also of our daies doth manifestlie refute, for that a Catholique Preest and Doctor in diuini<g ref="char:EOLhyphen"/>tie
+<pb n="39" facs="tcp:177578:20"/>of that nation hath both vvriten and printed not long ago a gramer and Cathechisme in the same language, on this syde the seas, and here be diuers in this College: that do both speake and vvrite the same verie vvell, and do hope to preache therein also one daie, to their countrie men vvhen their lotte shall comme to returne home, as di<g ref="char:EOLhyphen"/>uers others of that nation haue don before them, vvith much zeale &amp; aedification, and he that spake in that language here, being a vvorshipfull mans son also of that countrie, did it so vvell &amp; sensiblie, that he delighted manie, and among others as it seemeth the King himself vvho asked of a father that stoode by him, what difference there vvas bet<g ref="char:EOLhyphen"/>vveene the Inglish and vvelshe languages.</p>
+               <p>He tooke for his theame the seuenth verse of the foresaid Psalme, to vvit. <hi>Orietur in diebus eius Iustitia &amp; abundantia pacis donec auferatur Luna. There shall in his daies spring vp Iustice and abundance of peace as long as the moone or element shal indure.</hi> Which as it vvas properly spoken of christ and of his euerlasting and ghostelie invvard peace, and Iustice, as before hath bin nored, yet did this man applie it also verie apte<g ref="char:EOLhyphen"/>lie to the extraordinarie peace and Iustice vvithin this Kings daies, after so manie wars of Charles the Emperour his glorious father, not onelie in his owne dominiōs, (vvhich are most ample throught<g ref="char:EOLhyphen"/>out the world) but other Kings also and Princes adioyning, by his meanes haue enioyed, &amp;c.</p>
+            </div>
+            <div n="6" type="section">
+               <pb n="40" facs="tcp:177578:21"/>
+               <head>VI. The Scotishe.</head>
+               <p>THE language which is comonlie vsed in the courte and better parte of Stotland is not much different from the Inglis he as you know, thoughe in the mountaine parts and Ilands of Or<g ref="char:EOLhyphen"/>chades and Hebrides adioyning thereunto, the na<g ref="char:EOLhyphen"/>turall language is Irish, hereby it cometh to passe that diuers of our natiō that are borne towards the north partes of Ingland, or haue had recourse in to Scotlād, can speake also that language, wherein the theme fell out to be this daie, the twelfth ver<g ref="char:EOLhyphen"/>se of the forsaid Psalme, which hath theis words. <hi>Liberabit pauperem à potente &amp; pauperem cui non erat adiutor. He shall deliuer the poore man from the potent, yea the poore man that hath no helper at all.</hi> Which he applying to this King, did touch with breuitie di<g ref="char:EOLhyphen"/>uers poynts of the cruel and Intollerable oppres<g ref="char:EOLhyphen"/>sions of the Catholiques in Ingland, both in goods, lands, lyf, and fame, whose cause being religion, is made notwithstanding so odious by wicked dra<g ref="char:EOLhyphen"/>wing the same to matter of estate, as no man dare speake for them, no not so far forth as they would speake for a thief or murtherer, vvhereby properlie they maie be called <hi>that kind of poore that haue no hel<g ref="char:EOLhyphen"/>per,</hi> for whome Almightie God peculiarlie promi<g ref="char:EOLhyphen"/>seth affistance in this verse, and as we hope (said he) by the help of your Maiestie, whome he hath in dued with so greate vvisdome and all sufficiencie for this purpose, etc. He made also comparison that yf the people of Israel thought it heauie and grieuous to be aflicted by forreine Princes and al<g ref="char:EOLhyphen"/>liens
+<pb n="41" facs="tcp:177578:21"/>for their sins when they forsooke God, what maie the Inglish do too see them selues owtra<g ref="char:EOLhyphen"/>ged, afflicted, &amp; vexed by theyr ovvne na<g ref="char:EOLhyphen"/>turall contrie men, and that for the desyre to liue virtuously and serue God? And yf God plagued those old persecutors also, vvhome he himself yet had sett a vvorke, to chasten the Iewes, after they had serued his tourne, vvhat vvill he doe to theis vvhome the diuel onelie setteth a vvorke, vvhen the tyme shall come of restoring to euerie bodie according to his merits? &amp;c.</p>
+            </div>
+            <div n="7" type="section">
+               <head>VII. The Frenche.</head>
+               <p>NEXT vnto theis three tongues that might seeme barbarous and peregrine to spanish eates, there follovved other three that vvere pre<g ref="char:EOLhyphen"/>supposed to be vnderstood by all or the most parte of them that vvere present, to vvit, the French, Ita<g ref="char:EOLhyphen"/>lian, and Spanish: and for this consyderacion both the speakers in them vvere permitted to be some<g ref="char:EOLhyphen"/>vvhat the larger, and did not repeate aftervvard in Latin that vvhich before they had vttered in the vulgar language. The verse that fell to the lott of him that spake in the French tongue vvas the thir<g ref="char:EOLhyphen"/>teenth of the forenamed Psalme, to vvit. <hi>Parcet pau<g ref="char:EOLhyphen"/>peri &amp; inopi, &amp; animas pauperum saluas faciet. He shall spare the poore and needie, and shall saue the liues or soules of those that ar in necessitie.</hi> Which vvordes as he con<g ref="char:EOLhyphen"/>fessed to be spoken properlie of Christ, so also he affirmed they might verie aptlie and iustly be ap<g ref="char:EOLhyphen"/>plyed as the former vveare) to the estate present of poore Inglish afflicted Catholiks, and to his Ma<g ref="char:EOLhyphen"/>iesties
+<pb n="42" facs="tcp:177578:22"/>proceedings tovvardes them, and for that I persuade my self that you are not altogether vnac<g ref="char:EOLhyphen"/>quainted with theis three tongues, and to the end you maie in parte perceiue the good talent of theis our youthes in theis languages (for that it was wholie their owne doing, as the rest was also of the others &amp; that vppon the suddaine) I will here put downe some of theyr words in euerie of theis three tongues, thoughe the good grace &amp; abilitie where with they pronounced the same can not so well by words be expressed.</p>
+               <p>The first then being a youth of verie worship<g ref="char:EOLhyphen"/>full Inglish parents hauing recited his theme be<g ref="char:EOLhyphen"/>fore mentioned began thus. <hi>Ce Psaulme, que nous auons prins pour dire quelque chose auiourd' huy deuant vo<g ref="char:EOLhyphen"/>stre Maiesté Royale (Roy trespuissant, &amp; le plus grād Monar<g ref="char:EOLhyphen"/>che du monde) chantoit au temps passe le Roy Dauid a son fils Salomon, comme figure de nostre Sauueur, qui estoit le vray Salomon, &amp; lequel en ses vertus que icy raconte le Prophete il vmbrageoit, &amp; en soy mesme nous representoit, il nous a semblé n'estre hors de propos, dire auiourdhuy, a vo<g ref="char:EOLhyphen"/>stre personne Royale, nō pas cōme figure de nostre Seigneur a venir, ains comme a son parfaict imitateur, Royal mini<g ref="char:EOLhyphen"/>stre, &amp; disciple tresfidele, en qui, comme en vn vif pour<g ref="char:EOLhyphen"/>traict &amp; modelle nous nous voions representer la personne de nostre Seigneur, &amp; ce nō seulement en ces vertus &amp; faiiz heroiques, les quels ont racontc ceux que vous auez iusques icy ouyes, mais beaucoup plus en ce qu'a ceste heure m'est escheu pour dire, qui est. Parcet pauperi &amp; inopi, &amp; animas pauperum saluas faciet.</hi> Which in Inglish may thus be expressed. This Psalme which we haue taken to saie somwhat of this daie before your Ma<g ref="char:EOLhyphen"/>iestie,
+<pb n="43" facs="tcp:177578:22"/>(most puisant King, and of the world the monarch most potent) was sung in tymes past by the royal Prophet Dauid to his son Salomon, as to him that bare the figure of Christ or Saueour, who was indeed, the true Salomon, and whose soueraigne vertues the Prophet in this place re<g ref="char:EOLhyphen"/>counteth. And it hath not seemed to vs from the purpose this daie to applie the same to your royall person, not as a figure of our Saueour to come as Salomon was, but rather as to a perfect flower, royal minister, &amp; most faithfull disciple of our said sauiour now in heauen, whose souereigne person we see most liuelie represented in your Maiestie, as in a most excellent pourtraict and modelle, and this not onelie in this noble vertues and heroicall factes which they haue recited that haue gon before me, but more in this particular poynte which novv by order is happened to me to treate of, to wit theis vvords. <hi>He shall spare the poore and needie, and shall deliuer the soules or lyues of such as are in necessitie, &amp;c.</hi>
+               </p>
+               <p>Thus vvas the begining and entrance to his speeche, vvhich after he applying to the present estate of themselues that vvere banis hed and his Maiesties royal proceedings tovvards them he vt<g ref="char:EOLhyphen"/>tred theis vvords among diuers others that he spake, vvith greate affection vvhich moued much the heares to compassion. <hi>Nous autres ne pouuons pas viure en nostre pais, &amp; terre natiue, mais chassez d'icelle estions dispersez viuans comme bannis en terres estrangeres &amp; ce nō sans beaucoup d'afflictions, &amp; calamitez, que chas<g ref="char:EOLhyphen"/>qu'vn iour, &amp; chasque heur nous souruenoient: &amp; vous comme l'Aigle a ses petits &amp; le poulle a ses poullets nous
+<pb n="44" facs="tcp:177578:23"/>auez, qui estions deuant esperdus, asteur recueilli sous voz aylles, ie veux dire en vostre royaume tresflourissant, &amp; sous vostre sceptre embelli de tout genre de vertu &amp; pieté, &amp; de vostre liberalité, non indigne de vostre personne nous sou<g ref="char:EOLhyphen"/>stient, &amp; pouruoit de toute chose necessaire, de laquelle nous priue nostre pais propre: Et n'estant point de cecy content auez auiourd' huy voulu auec vostre royal presence, tāt grā<g ref="char:EOLhyphen"/>dement nous conforter, &amp; faire que cestuy nostre exil ne nous est grief, ains plus tost fort agreable, &amp;c.</hi> Which in Inglish is thus. We that could not be suffred to liue in our ovvne contrie and natiue soile, but were driuen from thence dispersed and banished into forreine lands, not without manie afflictions and calamities incident thereunto, which euerie daie and hower is wont to bring with it: your Maiestie like the Egle that protecteth hir litle ones, and as the hen that gathereth together hir yong chickens, hath gathered vs dispersed men together vnder your most noble wings, I meane in this your most florishing kingdome, vnder the protection of your potent scepter, adorned with all kind of heroicall vertues, and with your princelie liberalitie corres<g ref="char:EOLhyphen"/>pondente to your person, haue susteined and fur<g ref="char:EOLhyphen"/>nished vs with all necessaries for our lyf &amp; studies, whereof the crueltie of our owne cōtrimen hath depriued vs. And not being content vvith this one<g ref="char:EOLhyphen"/>lie, your Maie stie hath this day allso vouchsafed to come and honour vs with your most royall pre<g ref="char:EOLhyphen"/>sence, by which we remaine so extremlie comfor<g ref="char:EOLhyphen"/>ted as our banis hement cannot seeme greeuous vnto vs hereafter, but rather most pleasant &amp; hono rable. This &amp; diuers other things he vttred which
+<pb n="45" facs="tcp:177578:23"/>for breuitie I omit to the end I maie be able to saie some what also of the rest.</p>
+            </div>
+            <div n="8" type="section">
+               <head>VIII. The Italian.</head>
+               <p>HE that spake in Italian had for his theame the fourteenth verse, which saith thus. <hi>Ex vsuris &amp; iniquitate redimet animas eorum, &amp; honorabile nomen eorum coram illo. He shall redeeme theyr soules or liues from vsurie and iniquitie, and their name in his presence shalbe honorable.</hi> The is are effects that Christ him self wrought most gloriouslie in this world by redeeming our soules from iniquitie, &amp; from the opression of infernall tyrants, and made their name honorable in his presence, which was contempti<g ref="char:EOLhyphen"/>ble before, as also they are benefits, which in a se<g ref="char:EOLhyphen"/>condarie sense maie be attributed to the munifi<g ref="char:EOLhyphen"/>cēce of the king of Spaine, by whose protection so manie of our natiō ar deliuered from the tyrannie of cruel vsurers at home, who lend not so much as a litle peace or rest to anie Catholique, but with in<g ref="char:EOLhyphen"/>terest of theyr soules, by yelding to theyr heresies and other abhominations theron depending. His begining was thus.</p>
+               <p>
+                  <hi>Il Real Propheta (potentissimo Re &amp; Principi serenissi<g ref="char:EOLhyphen"/>mi) perseuerando di cantare le misericordie del nostro pie<g ref="char:EOLhyphen"/>toso padre &amp; creatore Iddio, ci da speranza con queste pa<g ref="char:EOLhyphen"/>rolle gia recitate, che risguardara anche vn giorno la nostra pouera gente &amp; che riscatarà da tante miserie, quelle anime afflictissime dela nostra, non mai sufficientemente detta miserrima patria, parolle certamente per noi altri piene di grandissima consolatione &amp; contento, &amp;c.</hi> which in In<g ref="char:EOLhyphen"/>glish is thus in effect. The Royal Prophet King
+<pb n="46" facs="tcp:177578:24"/>Dauid (most potent K. and gratious Princes) con<g ref="char:EOLhyphen"/>tinuing to set downe in this Psalme the Infinit mer<g ref="char:EOLhyphen"/>cies of our heauenlie father &amp; creator, geueth vs hope by theis wordes heere recited in this verse, that he will one daie also looke vppon our poore nation, and deliuer the afflicted soules of our most desolate and miserable contrie, from the intollera<g ref="char:EOLhyphen"/>ble oppressions which they suffer which hope can<g ref="char:EOLhyphen"/>not be but of exceeding greate comforte and con<g ref="char:EOLhyphen"/>tentment to vs all.</p>
+               <p>Thus was his beginning, and after this he pro<g ref="char:EOLhyphen"/>secuted the matter more particularlie, and shewed how honorable his Maiestie had made the name of poore Inglish banished Catholiques before him &amp; all the world that daie, by coming in such forte to visite them, whome theyr owne Prince &amp; peo<g ref="char:EOLhyphen"/>ple had cast out as vnworthie to liue amōg thē, so that it was truclie verified which heere the Prophet saith: <hi>Et honorabile nomen eorum coram illo, &amp;c.</hi>
+               </p>
+            </div>
+            <div n="9" type="section">
+               <head>IX. The Spanish.</head>
+               <p>TO the spanish language fell the eighteenth verse, which conteineth the conclusion as it were of all that goeth before in theis words. <hi>Bene<g ref="char:EOLhyphen"/>dictus Dominus Deus Israel qui facit mirabilia solus. Bles<g ref="char:EOLhyphen"/>sed be our Lord God of Israel that onelie doth wonderfull workes.</hi> Vppon which words he that spake began thus. <hi>En los versos passados ha visto vuestra Magestad la grāde bondady marauillosa misericordia de Christo nuestro Sen̄or para con los pobres y affligidos, a cuyo consuelo y li<g ref="char:EOLhyphen"/>beracion, parece queria que siruiesse toda su grandez ay po<g ref="char:EOLhyphen"/>tencia. Se ha visto tan biē como todo esto se verifica parimēte
+<pb n="47" facs="tcp:177578:24"/>en las obras de vuestra Magestad que con nosotros perse<g ref="char:EOLhyphen"/>guidos y desterrados ha vsado; De suerte que a mi aora, no me ha quedado otro, si no, las alabanças del Seūor por estas grandes misericordias suyas, y esto es lo que dizen las palabras ya al legadas del verso: Benedictus Dominus Deus Israel qui facit mirabilia solus. Sea Sen̄r Dios, y eterna Ma<g ref="char:EOLhyphen"/>gestad tu nōbre benedicto y glorificado para siempre iamas, por auer nos dado tātos bienes del cielo por mano vuestra y tan sin merecimiento nuestro, y por auer nos dado tantos a<g ref="char:EOLhyphen"/>liuios sobre la tierra por mano de tan poderoso y Catolico Rey, para que fuesse suaue consuelo, y seguro puerto y ampa<g ref="char:EOLhyphen"/>ro de los abatidos con las ondas y olas tempestuosas de la mar, y rigorosos vientos de afflicion y angustia, y affligidos con tyranias y crueldades, con desterramientos y carceles, y todo genero de tormentos y martyrios. Alabente pues Sennor tus Angeles, y bendigante todas tus criaturas por tales marauillas, porq̄ cierto lo son, y muy grandes, y sola obra del altissimo Dios, &amp;c.</hi> In Inglish thus: Your Maiestie hath seene in the verses before recited, the excee<g ref="char:EOLhyphen"/>ding greate goodnes and wonderfull mercies of our Sauiout Christ towardes poore, needie, and afflicted men, for whose onelie comforte and deli<g ref="char:EOLhyphen"/>uerance it seemeth that all his power and greate<g ref="char:EOLhyphen"/>nes was to serue, according as the Prophet descri<g ref="char:EOLhyphen"/>beth the same. It hath bē seen in lyke manner, how all this prophesied of Christ our Sauiour, maie al<g ref="char:EOLhyphen"/>so in good sense and reason be verified in the acts of your royall Maiestie, towards vs persecuted and ba<g ref="char:EOLhyphen"/>nis hed Inglish Catholiques, so as now vnto me there resteth nothing but onelie the praises of Al<g ref="char:EOLhyphen"/>mightie God, for theis his greate benefits and mer<g ref="char:EOLhyphen"/>cies which the verse fallen to my lotte expresseth in
+<pb n="48" facs="tcp:177578:25"/>theis words. Blessed be our Lord God of Israel which onlie doth wonders. Blessed be thy eternall Maiestie o Lord God, and blessed be thy name and glorified for euer, for that thou hast geuen vs so manie heauenlie gyfts for our soules with thy owne hands, and without all deserte on our be half, and so manie comforts and other benefits vppon earth by the hands of so potent &amp; Catholique a King, and hast prepared him to be so sweete a com<g ref="char:EOLhyphen"/>forte and sure defence to men wearied and beaten with the tempestuous waues and surges of the sea of persecution, and with the fierce winds of afflic<g ref="char:EOLhyphen"/>tion and tribulacion, oppressed with tyranie and crueltie, with banishment and prisons, with tor<g ref="char:EOLhyphen"/>ments and martyrdomes. Let all thy angels praise thee o Lord for this, and let all thie creatures blesse thee for theis maruaillous workes, seing in truth they are greate vvonders in them selnes, and onelie the vvorkes of thy powerfull hand.</p>
+               <p>This and diuers things els he vttred to this ef<g ref="char:EOLhyphen"/>fecte, &amp; for that the speaker seemed nuch mooued him self, and spake it verie distincttly and affectu<g ref="char:EOLhyphen"/>ouslie, and in a tongue that all the heares vnder<g ref="char:EOLhyphen"/>stoode, if seemed to woorke greate motion in the hartes of all that were present at the speeche.</p>
+            </div>
+            <div n="10" type="section">
+               <head>X. The Flemish.</head>
+               <p>THe last of all was the Flemish tōgue, wherein the speaker vvas the self same youth that had made the Preface &amp; entraūce in spanish to the tō<g ref="char:EOLhyphen"/>gues at the begining. His theame was the nyneteēth verse conteining the verie last wordes of the said
+<pb n="49" facs="tcp:177578:25"/>Psalme, &amp; a parte of the cōclusiō &amp; praier mētioned in the verse immediatlie before, in the is vvords. <hi>Et benedictum nomen maiestatis eius in aeternū, &amp; replebitur maiestate eius omnis terra fiat, fiat.</hi> And blessed be the name of his Maiestie for euer, and all the whole earthe shall be replenis hed with his Maiestie, so be it, so be it; Vppon vvhich vvords after the speaker had shevved hovv much he &amp; his fellovves aboue all other people in the vvorlde (perhaps) vveare bound to repeate often and earnestlie theis vvords of blessing the name of Gods aeternall Maiestie, for his infinit benefits receaued, and to vvish the dila<g ref="char:EOLhyphen"/>tation of his holie name, and seruice throughout all nations, and especiallie in their natiue countrie of Ingland, he applied the same also to the Maiestie of the king present, vvhose name and memorie he saide they vvere also bound to blesse next after God, for euer, for his speciall goodnes tovvards them, and for the vniuersall good of Christs Ca<g ref="char:EOLhyphen"/>tholique Churche, and generall comforte of all vertuous people in theis troublesome &amp; most daungerous tymes of haeresies and rebellions: and therefore albeit haeretiques and seditious persons did repine at the same, yet theyr voice vvith the prophet shalbe still <hi>fiat, fiat;</hi> vvhich vvords he re<g ref="char:EOLhyphen"/>peated often vvith so good grace, as seemed to geue greate contentment to the hearers.</p>
+            </div>
+            <div type="section">
+               <head>The thanksgeuing.</head>
+               <p>AFter he had ended his discourse and speeche he made a litle pause, and after that vttred in Spanish for thanks geuing theis words following.
+<pb n="50" facs="tcp:177578:26"/>The fauour is so great and royal, vvhich your Ca<g ref="char:EOLhyphen"/>tholique Maiestie hath shevved this daie vnto vs poore Inglish banished men, that yf theis vvalles vveare of vnderstanding or able to speake, they would all be come tongues to aide &amp; helpe vs for to acknowledge &amp; geue thankes for so rare a cour<g ref="char:EOLhyphen"/>tesie and benefite as vve haue receaued at this pre<g ref="char:EOLhyphen"/>sent, by your Maiesties presence, especiallie for that you haue vouche saffed to bring also vvith you for our more complet ioye and comforte, theis tvvo most noble Princes vvhich vvee heere behold, as most vvorthie children of your most excellent Ma<g ref="char:EOLhyphen"/>estie. But seing that neither theis vvalles haue tou<g ref="char:EOLhyphen"/>gues, nor vve vvith those vve haue, or with any thing vve can saie, can reache to equall the leaste parte of so rare an obligation, vve shall hould our peace, and our harts remaining vvith burning de<g ref="char:EOLhyphen"/>syre to vtter their affection of gratitude, shal turne them selues vnto almightie God, vvho vvithout vvords can vnderstand their meaning, and shal be<g ref="char:EOLhyphen"/>seche perpetuallie his diuine Maiestie, to revvard vvith euerlasting payment so extraordinarie clemē<g ref="char:EOLhyphen"/>cie and benignitie, as your Maiestie and highenesses vnto vs haue vsed. And yf it shall bee hereafter his diuine Maiesties pleasure to make worthie anie one of vs here present, or all of vs, to shead our bloud one daie in Ingland, for defence of his Ca<g ref="char:EOLhyphen"/>tholique faithe, and religion (as so manie of our companie by his especiall fauour haue don before vs) with that bloud it shalbe vvritten in the mar<g ref="char:EOLhyphen"/>ket places and streets vvhere it shall be shed, the singular obligation that Gods Catholique cause,
+<pb n="51" facs="tcp:177578:26"/>and our contrie, and the parties them selues shall haue vnto your Maiestie, seing it is bloud ingēdred in the vaines of them that yeld it vppe to God, by the royall maintenance which your Maiestie hath geuen them: For which respect also, it maie iustlie crie to heauen for due revvard vnto so singular a benefactour, and leaue obligatiō to all the Inglish Catholique nation for euer (vvhat so euer shall become of that vnfortunate realme) to recognise euerlastinglie so important benefits, in such a tyme as this is, at your most Catholique Maiesties hands receaued.</p>
+               <p>With theis words it is maruelous how exceeding greate motion vvas made in the hartes of all the standers by, whereof it vvas thought there vvere fevve vvho did not shed teares more or lesse, and that diuers persons of importance did shed the same abundantlie, it vvas easelie seene &amp; by them<g ref="char:EOLhyphen"/>selues after confessed, it seemed also that his Maie<g ref="char:EOLhyphen"/>stie, &amp; the Princes vvere much contented with that vvhich they had heard and seene, &amp; so the King himself by vvords testified, affirming diuers tymes that they had donne verie vvell, and rising vp from his chaire on foote, he stoode still, &amp; suffred all the schollers to comme to kysse his hands, vvhich yet he would not geue them, but imbraced them eache one about the necke, &amp; vvhen the number to some seemed greate for his Maiestie to receiue on foote (especiallie so soone after his govvte, which he had had the daie before, &amp; novv vvent vvith a staffe for the same cause) he ansvveared that it vvas no matter, and that he vvould haue them comme all,
+<pb n="52" facs="tcp:177578:27"/>vvhich they did, and his Maiestie departed so late as torches vvere necessarie for to light him out, &amp; all the vvaie out he neuer left asking particular que<g ref="char:EOLhyphen"/>stions of the house and scholers, vvhich extraordi<g ref="char:EOLhyphen"/>narie tokens of loue, in so greate &amp; vvise a Prince, all men did both marke &amp; not a litle vvonder at.</p>
+               <p>At the Kings departure the Marques of Velada Gouernour of the Princes person gaue order in the Princes name, that all the verses, emblemes, and other cōpositiōs that were on the walles should be reserued &amp; sent to <hi>Garcia de Loyasa</hi> the Princes scho<g ref="char:EOLhyphen"/>le master for his highenes to view the daie follo<g ref="char:EOLhyphen"/>wing, which vvas don, but yet with somme choise for that the vvhole multitude vvas so greate,
+<note place="margin">The multi<g ref="char:EOLhyphen"/>tud of ver<g ref="char:EOLhyphen"/>ses and cōpositions.</note> as it vvas thought vvold haue ben tedious, for the num<g ref="char:EOLhyphen"/>ber of the sheetes of paper vvere esteemed aboue tvvo hundred in all, vvherein besydes all kynd of verses, in all the foresaid ten sorts of lāguages, there were manie other ingenious deuises (as I haue said, namelie of Emblemes, &amp; Hieroglyphicks, among vvhich I shall sett dovvne three or fower here, onelie for example sake, by which you maie make coniecture of the rest.</p>
+               <p>In one faire table there vvere painted three fierce &amp; cruell lions tearing men in pieces,
+<note place="margin">The first hierogly<g ref="char:EOLhyphen"/>phike.</note> &amp; a fourth liō more goodlie then the rest, fighting against the other three, and taking men from theyr iavves, and bearing them tovvardes a faire and strong Castel puttred in the same table for their defence, &amp; ouer this one lyons head vvas vvritten theis vvords in Latine. <hi>Eripio non rapio,</hi> that is, I take avvaie to de<g ref="char:EOLhyphen"/>liuer and not to deuoure, and for that the one lion
+<pb n="53" facs="tcp:177578:27"/>and the Castell are armes of Spaine, and three lions of Ingland, it was easelie to be vnderstoode what was meant thereby, yet for more explication theis Latin verses were writen in fayre letters vnder.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Clare Philippe tuum fert vnum insigne leonem</hi>
+                     </l>
+                     <l>
+                        <hi>Anglorum triplici stemma leone nitet.</hi>
+                     </l>
+                     <l>
+                        <hi>Hi patriam natis crudelibus vnguibus orbant,</hi>
+                     </l>
+                     <l>
+                        <hi>Defendit natos vnguibus ille pijs.</hi>
+                     </l>
+                     <l>
+                        <hi>Eripit ille tribus laceranda{que} corpora seruat</hi>
+                     </l>
+                     <l>
+                        <hi>Vnicus ergo manet fortior ille tribus.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>❧ VVhich one turned into Inglish thus.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>King Phillip dothe in sheild a lion beare,</hi>
+                     </l>
+                     <l>
+                        <hi>The Inglish armes of Lions three depend,</hi>
+                     </l>
+                     <l>
+                        <hi>VVhose countries children they with pawes do teare,</hi>
+                     </l>
+                     <l>
+                        <hi>The other dothe them with his pawes defend.</hi>
+                     </l>
+                     <l>
+                        <hi>One lion dothe them from the other free,</hi>
+                     </l>
+                     <l>
+                        <hi>One lion then more stronger is then three.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>In an other table there was painted a goodlie,
+<note place="margin">The 2. Hie<g ref="char:EOLhyphen"/>roglyphike.</note> faire and strong Castell, (which is also a piece of this Kings armes, and peculiar to Castilla, wherein this towne of Valliodolid is situated) and out of the Castell did hang at the windowes all kynd of varietie of weapōs, armour, and other furniture of war, &amp; round about it were painted manie ladders, &amp; manie youthes going vppe on the same, with greate haste &amp; alacritie to arme them selues there<g ref="char:EOLhyphen"/>with, &amp; others coming downe throughlie fur<g ref="char:EOLhyphen"/>nished for the fielde, and vnder were writen theis verses in Spanishe.</p>
+               <pb n="54" facs="tcp:177578:28"/>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Castilla de la Yberia celebrado</hi>
+                     </l>
+                     <l>
+                        <hi>Por tus armas en todo el ancho suelo,</hi>
+                     </l>
+                     <l>
+                        <hi>Que a mil barbaras gentes han domado,</hi>
+                     </l>
+                     <l>
+                        <hi>Leuantando tu nombre al alto cielo;</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Otras mas fuertes armas has labrado</hi>
+                     </l>
+                     <l>
+                        <hi>De litras, de piedad, de santo zelo,</hi>
+                     </l>
+                     <l>
+                        <hi>Que sube a armarse dellas con tal gana</hi>
+                     </l>
+                     <l>
+                        <hi>La Iuuentud catholica Anglicana.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>❧ In Inglish thus.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Castillia which renowmed is of Spaine,</hi>
+                     </l>
+                     <l>
+                        <hi>And feates of armes extoleth far by fame,</hi>
+                     </l>
+                     <l>
+                        <hi>That sauage people thowsandes didst restraine,</hi>
+                     </l>
+                     <l>
+                        <hi>And to the heauens aduanced hast thy name,</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Far stronger forces now thow hast prefard,</hi>
+                     </l>
+                     <l>
+                        <hi>Of learning, vertue, and of sacred zeale:</hi>
+                     </l>
+                     <l>
+                        <hi>And Inglish youthes that therewith are prepard,</hi>
+                     </l>
+                     <l>
+                        <hi>Seeke to aduance thereby our Christian weale.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>In an other table were painted the armes of Valliodolid,
+<note place="margin">The 3. Hie<g ref="char:EOLhyphen"/>roglyphike.</note> which are certaine flames of fyar, and nighe to this, were painted two ships, one coming, and the other going to an Iland in the sea, that re<g ref="char:EOLhyphen"/>presented Ingland, and both ships full of schollers, the one coming with torches out, to light them at the saide flames, and the other sorte retourning home, with their torches lighted and burning, and vnder the picture vvere vvryten theis spanish verses.</p>
+               <pb n="55" facs="tcp:177578:28"/>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>De lexas tierras a encender venimot</hi>
+                     </l>
+                     <l>
+                        <hi>Las hachas en las llamas celestiales,</hi>
+                     </l>
+                     <l>
+                        <hi>Para boluer despues donde salimos,</hi>
+                     </l>
+                     <l>
+                        <hi>Y consumir los fuegos infernales.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Esta firme esperança concebimos</hi>
+                     </l>
+                     <l>
+                        <hi>En llegando de Espaūa a los vmbrales</hi>
+                     </l>
+                     <l>
+                        <hi>Pues insignias de llamas las primeras</hi>
+                     </l>
+                     <l>
+                        <hi>Hallamos (Pintia illustre) en tus vanderas.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>❧ In Inglish thus.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>From countries far to kindle we are come,</hi>
+                     </l>
+                     <l>
+                        <hi>Our darckned light, in cleere celestiall flame,</hi>
+                     </l>
+                     <l>
+                        <hi>And then againe with courage to returne,</hi>
+                     </l>
+                     <l>
+                        <hi>The fyre of hell to vanquish with the same.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>This constant hope conceyued, we retyre,</hi>
+                     </l>
+                     <l>
+                        <hi>To obscure places, when we parte from Spaine,</hi>
+                     </l>
+                     <l>
+                        <hi>VVhereas we first beheild the flames of fyre,</hi>
+                     </l>
+                     <l>
+                        <hi>Valliodolid in ensigne to retaine.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>Not far from this was there painted a goodlie royall Egle,
+<note place="margin">
+                     <hi>The</hi> 4. <hi>Hie<g ref="char:EOLhyphen"/>roglyphike.</hi>
+                  </note> vvhich belongeth also to the armes of Spaine (by the house of Austria) sitting and defen<g ref="char:EOLhyphen"/>ding a greate heape of faire vvheate, that was pain<g ref="char:EOLhyphen"/>ted vnder the Egle, and diuers white pigeons came, &amp; tooke of the said vvheate by licence of the Egle, &amp; caryed the same into an other coūtrie, &amp; sowed it vvhere it sprung vp &amp; prospered vvonderfullie, notvvithstanding that manie crovves and kytes, dravven also in the same table, did beate and kill diuers of theis pigeons for the same, and follovved
+<pb n="56" facs="tcp:177578:29"/>them tovvards the saide heape of corne so far as they durst for feare of the Eagle that defended and protected them, and vnder the picture vvere set theis eight verses in the Castillian tongue.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>El Aquila Real os da licencia</hi>
+                     </l>
+                     <l>
+                        <hi>Palumbas blancas que en su Iberio estado,</hi>
+                     </l>
+                     <l>
+                        <hi>Cojais el trigo de virtud y ciencia,</hi>
+                     </l>
+                     <l>
+                        <hi>Que tiene como en hera limpio <gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> echado.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Lleuad lo a Vuestra patria y con paciencia</hi>
+                     </l>
+                     <l>
+                        <hi>Sembrad lo donde quede bien sembrado.</hi>
+                     </l>
+                     <l>
+                        <hi>Que aun{que} muchos no admiten la semilla,</hi>
+                     </l>
+                     <l>
+                        <hi>Ha de hallar tierra el trigo de Castilla.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>❧ In Inglish thus.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>The Royall Egle freely doth admitt,</hi>
+                     </l>
+                     <l>
+                        <hi>You Pigeons whyte, in his Iberiaen boundes,</hi>
+                     </l>
+                     <l>
+                        <hi>The seede of learning and of skill to gett,</hi>
+                     </l>
+                     <l>
+                        <hi>The which is sowed in the purest goundes.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Beare this with patience to your natyue land,</hi>
+                     </l>
+                     <l>
+                        <hi>And sow the same where well you may it sowe,</hi>
+                     </l>
+                     <l>
+                        <hi>And althoughe many shall the same withstand,</hi>
+                     </l>
+                     <l>
+                        <hi>This wheat of Spaine in Ingland yet will growe.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>In an other place (and vvith this vvil I end) vvas there painted a greate &amp; goodlie heard of sheepe vvith a huge multitude of rauening vvolues amōg them,
+<note place="margin">The 5. Hie<g ref="char:EOLhyphen"/>rogryphike.</note> vvhich did teare and rent them, and sucked their bloud, and Christ our sauiour in forme of a carefull shephard, vvas painted also on one syde sitting and beholding their afflictions, and one speaking to him in theis verses follovving.</p>
+               <pb n="57" facs="tcp:177578:29"/>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>Soberano Pastor, miras el ganado</hi>
+                     </l>
+                     <l>
+                        <hi>En mano y dientes de animales fieros?</hi>
+                     </l>
+                     <l>
+                        <hi>Si miro; y rato ha ya que estoy parado</hi>
+                     </l>
+                     <l>
+                        <hi>Escuchando balar a mis corderos.</hi>
+                     </l>
+                     <l>
+                        <hi>Pues como assi los dexas en el prado</hi>
+                     </l>
+                     <l>
+                        <hi>Que los maten los lobos carniceros?</hi>
+                     </l>
+                     <l>
+                        <hi>Si; porque assi muriendo cobran vida</hi>
+                     </l>
+                     <l>
+                        <hi>Y la dan a su Patria destruyda.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>❧ In Inglish thus.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <hi>O soueraigne pastor do thy flock regard,</hi>
+                     </l>
+                     <l>
+                        <hi>In teeth and clawes of cruell beastes destrest</hi>
+                     </l>
+                     <l>
+                        <hi>Yea so I do, and eftsones haue I hard,</hi>
+                     </l>
+                     <l>
+                        <hi>My sheepe lament, that are els where oprest.</hi>
+                     </l>
+                     <l>
+                        <hi>VVhy let you them thus in the feild remaine</hi>
+                     </l>
+                     <l>
+                        <hi>VVhere greedy wolues do suck their giltlesse blood?</hi>
+                     </l>
+                     <l>
+                        <hi>Because in dying they get lyf againe,</hi>
+                     </l>
+                     <l>
+                        <hi>That giue their lyues for their poore countries good.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>Other compositions to diuers effects and purpo<g ref="char:EOLhyphen"/>ses both in Hebrue, Greeke, Latin, French, Italian, and other languages before mentioned I do omitt, for auoiding of prolixitie, albeit by such as red the same, &amp; vnder stoode the languages, they were much comended, both for their inuention &amp; arte, and diuers things the Prince lyked of exceedingly well when he vewed thē more at leasure the daie following, as his master, and other learned young gentlemen of his chamber reported. And manie copies of the same were demanded which will in<g ref="char:EOLhyphen"/>force (as I supposed) the superiours of this College to put the whole in printe or at least wise the
+<pb n="58" facs="tcp:177578:30"/>chief points thereof, with a larger and more parti<g ref="char:EOLhyphen"/>cular narration of all in the Spanish tongue then this is, which no doubt will be verie grateful vnto this nation, for that thereby they shall not onelie see, what passed in this acte of the Kings coming hither, but also further vnderstand manie things of the present state of Ingland, which they desyre to do, as hath appeared by their greedie acceptaunce of diuers bookes published in this language of late yeares, touching the affaires and present persecutiō of Ingland, especiallie the translation of Doctor Sanders booke, <hi>de Schismate Anglicano,</hi> and of the late booke of <hi>Andreas Philopater</hi> in answeare to the pro<g ref="char:EOLhyphen"/>clamation of Nouember last against this King by name, <milestone type="tcpmilestone" unit="unspecified" n="1591"/> and Catholique Inglish Preestes, &amp; a third booke writen in Spanish of the particular martyr<g ref="char:EOLhyphen"/>domes of the Priestes and other Catholiques put to death theis later yeares and monethes, haue greatelie informed this nation, and put them in ex<g ref="char:EOLhyphen"/>treme wonder of our affaires, and made our Ca<g ref="char:EOLhyphen"/>tholique cause more famous throughout the world then euer it was since the primatiue Chur<g ref="char:EOLhyphen"/>che, yf then it weare equal to that it is nowe.</p>
+               <p>After the King himself with his children had ben heere,
+<note place="margin">The visita<g ref="char:EOLhyphen"/>tion of the courte.</note> you will easelie Imagin how manie of the courte and nobilitie would come afterward, to visit this place, and yet I thinke you could hardlie imagine them to be so manie as they were, fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I suppose there was skarse anie one officier, noble<g ref="char:EOLhyphen"/>man, knight, Captaine, or other man of accompt that came not hither to see the youthes, and order of the house, &amp; departed greatelie edifyed &amp; moued
+<pb n="59" facs="tcp:177578:30"/>with the sight, and diuers of them tooke such af<g ref="char:EOLhyphen"/>fectiō to the worke, as they would needes haue so<g ref="char:EOLhyphen"/>me one scholler assigned to praie for them in parti<g ref="char:EOLhyphen"/>cular, and they to paie his whole maintenaunce euerie yere during his aboade heere, &amp; so they did. As for the chiefe personages about the king, they were not content to haue visited this house once or twise before, but would also at the Kings depar<g ref="char:EOLhyphen"/>ture needes come againe, and take their leaue in perticular of this college, and of euerie scholler in the same, &amp; to vse their ovvne phrase, would kysse the gowne &amp; habite of euerie one of theis seruāts of God, that suffer so gloriouslie for his name and cause: And surelie to see with what loue, hartie af<g ref="char:EOLhyphen"/>fection and reuerence they did the same, was a cō<g ref="char:EOLhyphen"/>fusion vnto vs all, consydering how greate &amp; hovv graue persons they be, but by this you may see how diuerslie wisedome and pietie is esteemed of in our contrie &amp; in other places, seeing theis youthes that are so hated &amp; cōtemned in Inglād, are so honoured and reuerēced here, and in other contries: God send all to be of one sense and iudgement againe in theis matters, as in tymes past we were; But in the meane space, I see the wonderfull prouidence of almightie God for cōtinuance of the Catholique faith in our contrie, seing this nevve supplie of Spaine vvas sent vvhen noman thought thereof, as at the begining I haue touched, and as oftentymes I haie heard F. Persons saie that in all the cogitations, speeches or conferences betvvene the Cardinall and him, or others with them both, for the beginning helping or furthering of this cause, it neuer came in talke
+<pb n="60" facs="tcp:177578:31"/>or deliberation or in any mans mynde to begin Se<g ref="char:EOLhyphen"/>minarie or college in Spaine, though now by expe<g ref="char:EOLhyphen"/>rience it hath fallen out of all other kingdomes in the world to be the fittest for this purpose, both for the cōmoditie of passage to and fro, as also for the greate abilitie &amp; inclination of this Prince, clear<g ref="char:EOLhyphen"/>gie, nobilitie, and people to helpe such godlie and spirituall vvorkes, so that vve maie applie to this holie prouidence of God that which the marriage master said at the mariage in Cana of Galiley,
+<note place="margin">
+                     <hi>Ioan.</hi> 7.</note> that the best wine was kept for the last, for surelie yf we maie speake of the tyme to comme vppon probabilitie of that which vve haue seene in tymes past, theis seminaries begun in Spaine are lyke to grovv more in one yere, then they did befo<g ref="char:EOLhyphen"/>re in manie, in other places, not onelie this of Val<g ref="char:EOLhyphen"/>liodolid but the other also in Siuil, which diuers men, in respect of the pietye, wealth, &amp; worthines of the place, do thinke will quicklie be greater then this, besids the Inglish house and Church of S. George in S. Lucar, vvhich latelie hath ben pas<g ref="char:EOLhyphen"/>sed ouer also to the preestes of the Seminaries to dwell therein, as it maie be you haue heard, and is lyke to be repayred &amp; brought in verie good estate againe shortlie, so that you see my Lord Treasorer is lyke to haue vvorke enoughe for his daies &amp; for his son and nephues also after him, yf they vvere lyke as well to succeede him in the same authoritie and prosperitie,
+<note place="margin">My L. Tre<g ref="char:EOLhyphen"/>surers ge<g ref="char:EOLhyphen"/>neration.</note> as perhaps they maie in will and hatred of Gods people, but you know vvhat Iobe hath prophesied of them.
+<note place="margin">
+                     <hi>Iob.</hi> 27.</note>
+                  <hi>Haec est pars hominis impij apud Deum &amp; haereditas violentorum, si multiplicati fue<g ref="char:EOLhyphen"/>rint
+<pb n="61" facs="tcp:177578:31"/>filij eius, in gladio erunt, &amp; nepotes eius non Satura<g ref="char:EOLhyphen"/>buntur pane, &amp; qui reliqui fuerint ex es sepelientur in inte<g ref="char:EOLhyphen"/>ritu.</hi> Which is as much to saie as. The vvicked and violent persecutors inheritance shalbe to haue his childrē slaine, &amp; his nephnes beg theyr bread, as also the rest of his generation for his sake brought to destruction. God turne his harte, and therevvith all his hand yf it please him, and make him see his owne, his Princes, and his comon vvealthes daun<g ref="char:EOLhyphen"/>ger, whereunto by errour and ambition, he hath cast all three: and geue yon patience in theis aduer<g ref="char:EOLhyphen"/>sities that you suffer for his cause, and send vs once to meete againe ioyfully either in heauen or in this world, or in both, euen as he shall see to bee most for his euerlasting glorie vvhereunto all our actions and desyres I hope are re<g ref="char:EOLhyphen"/>ferred from Valliodolid this 20. of August 1592.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
